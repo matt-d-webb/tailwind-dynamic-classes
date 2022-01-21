@@ -18,12 +18,12 @@ function createFunctionClassMap() {
                     const methodName = camalize(`${theme} ${screen} ${attribute} Color ${shade}`);
                     const fnProps = {
                         name: methodName,
-                        classes: []
+                        classes: {}
                     };
                     for (const color of colors) {
                         const className = `${(theme && `${theme}:`)}` +
                         `${(screen && `${screen}:`)}${attribute}-${color}-${shade}`.trim();
-                        fnProps.classes.push({ [color]: className });
+                        fnProps.classes[color] = className;
                     }
                     methods.push(fnProps);
                 }
@@ -35,21 +35,13 @@ function createFunctionClassMap() {
 
 // TODO: produce a formated output
 function createMethodExports(methods) {
-    const cases = (c) => {
-        const [color, className] = Object.entries(c)[0];
-        return `case "${color}":
-            return "${className}";
-        `
-    }
     return methods.map(m => {
         return `
-        export const ${m.name} = (color) => {
-            switch (color) {
-                ${m.classes.map(cases).join()}
-            }  
-        };
-        `.trimStart();
-    }).join().replace(/,/g, '');
+        export const ${m.name} = { ${Object.entries(m.classes).map(([key, value]) => {
+            return `${key}: "${value}"`
+        })}}`
+
+    }).join().replace(/},/g, '};');
 };
 
 function camalize(text) {

@@ -24,7 +24,7 @@ const colors = [
     "green", "blue", "purple"
 ];
 
-const Flag = ( { colors }) => {
+const Flag = ({ colors }) => {
     return (
         <> 
          {colors.map(color => {
@@ -36,10 +36,22 @@ const Flag = ( { colors }) => {
 
 const Stripe = (color) => {
     return (
-        <div className={classNames(bgColor500(color), "w-full h-40")}></div>
+        <div className={classNames(bgColor500[color], "w-full h-40")}></div>
     )
 };
 ```
+
+You can also use these directly:
+
+```jsx
+import { textColor900, mdTextColor700 } from @tailwind-dynamic-classes;
+
+const red = textColor900.red; // "text-color-red-900"
+const blue = mdTextColor700.blue; // "md:text-color-blue-700"
+
+```
+
+
 
 
 
