@@ -1,8 +1,10 @@
 # Tailwind Dynamic Classes 
 
-A utility library for dynamically using tailwind css classes
+A utility library for dynamically using tailwind css color classes
 
 ## `text-${color}-500   ` ❌
+
+## `textColor500[color]  ` ✅
 
 Example usage:
 
@@ -11,7 +13,7 @@ Example usage:
 import { bgColor500 } from "tailwind-dynamic-classes"; 
 ```
 
-React component
+React component example:
 
 ```jsx
 
