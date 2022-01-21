@@ -1,7 +1,6 @@
-
-export const bg50 = (color) => {
-    switch (color) {
-        case "black":
+export const bgColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "bg-black-50";
         case "white":
             return "bg-white-50";
@@ -59,13 +58,12 @@ export const bg50 = (color) => {
             return "bg-coolGray-50";
         case "blueGray":
             return "bg-blueGray-50";
-
-    }
-};
-
-export const bg100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const bgColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "bg-black-100";
         case "white":
             return "bg-white-100";
@@ -123,13 +121,12 @@ export const bg100 = (color) => {
             return "bg-coolGray-100";
         case "blueGray":
             return "bg-blueGray-100";
-
-    }
-};
-
-export const bg200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const bgColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "bg-black-200";
         case "white":
             return "bg-white-200";
@@ -187,13 +184,12 @@ export const bg200 = (color) => {
             return "bg-coolGray-200";
         case "blueGray":
             return "bg-blueGray-200";
-
-    }
-};
-
-export const bg300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const bgColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "bg-black-300";
         case "white":
             return "bg-white-300";
@@ -251,13 +247,12 @@ export const bg300 = (color) => {
             return "bg-coolGray-300";
         case "blueGray":
             return "bg-blueGray-300";
-
-    }
-};
-
-export const bg400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const bgColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "bg-black-400";
         case "white":
             return "bg-white-400";
@@ -315,13 +310,12 @@ export const bg400 = (color) => {
             return "bg-coolGray-400";
         case "blueGray":
             return "bg-blueGray-400";
-
-    }
-};
-
-export const bg500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const bgColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "bg-black-500";
         case "white":
             return "bg-white-500";
@@ -379,13 +373,12 @@ export const bg500 = (color) => {
             return "bg-coolGray-500";
         case "blueGray":
             return "bg-blueGray-500";
-
-    }
-};
-
-export const bg600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const bgColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "bg-black-600";
         case "white":
             return "bg-white-600";
@@ -443,13 +436,12 @@ export const bg600 = (color) => {
             return "bg-coolGray-600";
         case "blueGray":
             return "bg-blueGray-600";
-
-    }
-};
-
-export const bg700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const bgColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "bg-black-700";
         case "white":
             return "bg-white-700";
@@ -507,13 +499,12 @@ export const bg700 = (color) => {
             return "bg-coolGray-700";
         case "blueGray":
             return "bg-blueGray-700";
-
-    }
-};
-
-export const bg800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const bgColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "bg-black-800";
         case "white":
             return "bg-white-800";
@@ -571,13 +562,12 @@ export const bg800 = (color) => {
             return "bg-coolGray-800";
         case "blueGray":
             return "bg-blueGray-800";
-
-    }
-};
-
-export const bg900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const bgColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "bg-black-900";
         case "white":
             return "bg-white-900";
@@ -635,13 +625,12 @@ export const bg900 = (color) => {
             return "bg-coolGray-900";
         case "blueGray":
             return "bg-blueGray-900";
-
-    }
-};
-
-export const text50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const textColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "text-black-50";
         case "white":
             return "text-white-50";
@@ -699,13 +688,12 @@ export const text50 = (color) => {
             return "text-coolGray-50";
         case "blueGray":
             return "text-blueGray-50";
-
-    }
-};
-
-export const text100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const textColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "text-black-100";
         case "white":
             return "text-white-100";
@@ -763,13 +751,12 @@ export const text100 = (color) => {
             return "text-coolGray-100";
         case "blueGray":
             return "text-blueGray-100";
-
-    }
-};
-
-export const text200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const textColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "text-black-200";
         case "white":
             return "text-white-200";
@@ -827,13 +814,12 @@ export const text200 = (color) => {
             return "text-coolGray-200";
         case "blueGray":
             return "text-blueGray-200";
-
-    }
-};
-
-export const text300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const textColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "text-black-300";
         case "white":
             return "text-white-300";
@@ -891,13 +877,12 @@ export const text300 = (color) => {
             return "text-coolGray-300";
         case "blueGray":
             return "text-blueGray-300";
-
-    }
-};
-
-export const text400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const textColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "text-black-400";
         case "white":
             return "text-white-400";
@@ -955,13 +940,12 @@ export const text400 = (color) => {
             return "text-coolGray-400";
         case "blueGray":
             return "text-blueGray-400";
-
-    }
-};
-
-export const text500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const textColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "text-black-500";
         case "white":
             return "text-white-500";
@@ -1019,13 +1003,12 @@ export const text500 = (color) => {
             return "text-coolGray-500";
         case "blueGray":
             return "text-blueGray-500";
-
-    }
-};
-
-export const text600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const textColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "text-black-600";
         case "white":
             return "text-white-600";
@@ -1083,13 +1066,12 @@ export const text600 = (color) => {
             return "text-coolGray-600";
         case "blueGray":
             return "text-blueGray-600";
-
-    }
-};
-
-export const text700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const textColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "text-black-700";
         case "white":
             return "text-white-700";
@@ -1147,13 +1129,12 @@ export const text700 = (color) => {
             return "text-coolGray-700";
         case "blueGray":
             return "text-blueGray-700";
-
-    }
-};
-
-export const text800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const textColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "text-black-800";
         case "white":
             return "text-white-800";
@@ -1211,13 +1192,12 @@ export const text800 = (color) => {
             return "text-coolGray-800";
         case "blueGray":
             return "text-blueGray-800";
-
-    }
-};
-
-export const text900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const textColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "text-black-900";
         case "white":
             return "text-white-900";
@@ -1275,13 +1255,12 @@ export const text900 = (color) => {
             return "text-coolGray-900";
         case "blueGray":
             return "text-blueGray-900";
-
-    }
-};
-
-export const border50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const borderColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "border-black-50";
         case "white":
             return "border-white-50";
@@ -1339,13 +1318,12 @@ export const border50 = (color) => {
             return "border-coolGray-50";
         case "blueGray":
             return "border-blueGray-50";
-
-    }
-};
-
-export const border100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const borderColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "border-black-100";
         case "white":
             return "border-white-100";
@@ -1403,13 +1381,12 @@ export const border100 = (color) => {
             return "border-coolGray-100";
         case "blueGray":
             return "border-blueGray-100";
-
-    }
-};
-
-export const border200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const borderColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "border-black-200";
         case "white":
             return "border-white-200";
@@ -1467,13 +1444,12 @@ export const border200 = (color) => {
             return "border-coolGray-200";
         case "blueGray":
             return "border-blueGray-200";
-
-    }
-};
-
-export const border300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const borderColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "border-black-300";
         case "white":
             return "border-white-300";
@@ -1531,13 +1507,12 @@ export const border300 = (color) => {
             return "border-coolGray-300";
         case "blueGray":
             return "border-blueGray-300";
-
-    }
-};
-
-export const border400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const borderColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "border-black-400";
         case "white":
             return "border-white-400";
@@ -1595,13 +1570,12 @@ export const border400 = (color) => {
             return "border-coolGray-400";
         case "blueGray":
             return "border-blueGray-400";
-
-    }
-};
-
-export const border500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const borderColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "border-black-500";
         case "white":
             return "border-white-500";
@@ -1659,13 +1633,12 @@ export const border500 = (color) => {
             return "border-coolGray-500";
         case "blueGray":
             return "border-blueGray-500";
-
-    }
-};
-
-export const border600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const borderColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "border-black-600";
         case "white":
             return "border-white-600";
@@ -1723,13 +1696,12 @@ export const border600 = (color) => {
             return "border-coolGray-600";
         case "blueGray":
             return "border-blueGray-600";
-
-    }
-};
-
-export const border700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const borderColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "border-black-700";
         case "white":
             return "border-white-700";
@@ -1787,13 +1759,12 @@ export const border700 = (color) => {
             return "border-coolGray-700";
         case "blueGray":
             return "border-blueGray-700";
-
-    }
-};
-
-export const border800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const borderColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "border-black-800";
         case "white":
             return "border-white-800";
@@ -1851,13 +1822,12 @@ export const border800 = (color) => {
             return "border-coolGray-800";
         case "blueGray":
             return "border-blueGray-800";
-
-    }
-};
-
-export const border900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const borderColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "border-black-900";
         case "white":
             return "border-white-900";
@@ -1915,13 +1885,12 @@ export const border900 = (color) => {
             return "border-coolGray-900";
         case "blueGray":
             return "border-blueGray-900";
-
-    }
-};
-
-export const smBg50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBgColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:bg-black-50";
         case "white":
             return "sm:bg-white-50";
@@ -1979,13 +1948,12 @@ export const smBg50 = (color) => {
             return "sm:bg-coolGray-50";
         case "blueGray":
             return "sm:bg-blueGray-50";
-
-    }
-};
-
-export const smBg100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBgColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:bg-black-100";
         case "white":
             return "sm:bg-white-100";
@@ -2043,13 +2011,12 @@ export const smBg100 = (color) => {
             return "sm:bg-coolGray-100";
         case "blueGray":
             return "sm:bg-blueGray-100";
-
-    }
-};
-
-export const smBg200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBgColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:bg-black-200";
         case "white":
             return "sm:bg-white-200";
@@ -2107,13 +2074,12 @@ export const smBg200 = (color) => {
             return "sm:bg-coolGray-200";
         case "blueGray":
             return "sm:bg-blueGray-200";
-
-    }
-};
-
-export const smBg300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBgColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:bg-black-300";
         case "white":
             return "sm:bg-white-300";
@@ -2171,13 +2137,12 @@ export const smBg300 = (color) => {
             return "sm:bg-coolGray-300";
         case "blueGray":
             return "sm:bg-blueGray-300";
-
-    }
-};
-
-export const smBg400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBgColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:bg-black-400";
         case "white":
             return "sm:bg-white-400";
@@ -2235,13 +2200,12 @@ export const smBg400 = (color) => {
             return "sm:bg-coolGray-400";
         case "blueGray":
             return "sm:bg-blueGray-400";
-
-    }
-};
-
-export const smBg500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBgColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:bg-black-500";
         case "white":
             return "sm:bg-white-500";
@@ -2299,13 +2263,12 @@ export const smBg500 = (color) => {
             return "sm:bg-coolGray-500";
         case "blueGray":
             return "sm:bg-blueGray-500";
-
-    }
-};
-
-export const smBg600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBgColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:bg-black-600";
         case "white":
             return "sm:bg-white-600";
@@ -2363,13 +2326,12 @@ export const smBg600 = (color) => {
             return "sm:bg-coolGray-600";
         case "blueGray":
             return "sm:bg-blueGray-600";
-
-    }
-};
-
-export const smBg700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBgColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:bg-black-700";
         case "white":
             return "sm:bg-white-700";
@@ -2427,13 +2389,12 @@ export const smBg700 = (color) => {
             return "sm:bg-coolGray-700";
         case "blueGray":
             return "sm:bg-blueGray-700";
-
-    }
-};
-
-export const smBg800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBgColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:bg-black-800";
         case "white":
             return "sm:bg-white-800";
@@ -2491,13 +2452,12 @@ export const smBg800 = (color) => {
             return "sm:bg-coolGray-800";
         case "blueGray":
             return "sm:bg-blueGray-800";
-
-    }
-};
-
-export const smBg900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBgColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:bg-black-900";
         case "white":
             return "sm:bg-white-900";
@@ -2555,13 +2515,12 @@ export const smBg900 = (color) => {
             return "sm:bg-coolGray-900";
         case "blueGray":
             return "sm:bg-blueGray-900";
-
-    }
-};
-
-export const smText50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smTextColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:text-black-50";
         case "white":
             return "sm:text-white-50";
@@ -2619,13 +2578,12 @@ export const smText50 = (color) => {
             return "sm:text-coolGray-50";
         case "blueGray":
             return "sm:text-blueGray-50";
-
-    }
-};
-
-export const smText100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smTextColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:text-black-100";
         case "white":
             return "sm:text-white-100";
@@ -2683,13 +2641,12 @@ export const smText100 = (color) => {
             return "sm:text-coolGray-100";
         case "blueGray":
             return "sm:text-blueGray-100";
-
-    }
-};
-
-export const smText200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smTextColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:text-black-200";
         case "white":
             return "sm:text-white-200";
@@ -2747,13 +2704,12 @@ export const smText200 = (color) => {
             return "sm:text-coolGray-200";
         case "blueGray":
             return "sm:text-blueGray-200";
-
-    }
-};
-
-export const smText300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smTextColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:text-black-300";
         case "white":
             return "sm:text-white-300";
@@ -2811,13 +2767,12 @@ export const smText300 = (color) => {
             return "sm:text-coolGray-300";
         case "blueGray":
             return "sm:text-blueGray-300";
-
-    }
-};
-
-export const smText400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smTextColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:text-black-400";
         case "white":
             return "sm:text-white-400";
@@ -2875,13 +2830,12 @@ export const smText400 = (color) => {
             return "sm:text-coolGray-400";
         case "blueGray":
             return "sm:text-blueGray-400";
-
-    }
-};
-
-export const smText500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smTextColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:text-black-500";
         case "white":
             return "sm:text-white-500";
@@ -2939,13 +2893,12 @@ export const smText500 = (color) => {
             return "sm:text-coolGray-500";
         case "blueGray":
             return "sm:text-blueGray-500";
-
-    }
-};
-
-export const smText600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smTextColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:text-black-600";
         case "white":
             return "sm:text-white-600";
@@ -3003,13 +2956,12 @@ export const smText600 = (color) => {
             return "sm:text-coolGray-600";
         case "blueGray":
             return "sm:text-blueGray-600";
-
-    }
-};
-
-export const smText700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smTextColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:text-black-700";
         case "white":
             return "sm:text-white-700";
@@ -3067,13 +3019,12 @@ export const smText700 = (color) => {
             return "sm:text-coolGray-700";
         case "blueGray":
             return "sm:text-blueGray-700";
-
-    }
-};
-
-export const smText800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smTextColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:text-black-800";
         case "white":
             return "sm:text-white-800";
@@ -3131,13 +3082,12 @@ export const smText800 = (color) => {
             return "sm:text-coolGray-800";
         case "blueGray":
             return "sm:text-blueGray-800";
-
-    }
-};
-
-export const smText900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smTextColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:text-black-900";
         case "white":
             return "sm:text-white-900";
@@ -3195,13 +3145,12 @@ export const smText900 = (color) => {
             return "sm:text-coolGray-900";
         case "blueGray":
             return "sm:text-blueGray-900";
-
-    }
-};
-
-export const smBorder50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBorderColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:border-black-50";
         case "white":
             return "sm:border-white-50";
@@ -3259,13 +3208,12 @@ export const smBorder50 = (color) => {
             return "sm:border-coolGray-50";
         case "blueGray":
             return "sm:border-blueGray-50";
-
-    }
-};
-
-export const smBorder100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBorderColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:border-black-100";
         case "white":
             return "sm:border-white-100";
@@ -3323,13 +3271,12 @@ export const smBorder100 = (color) => {
             return "sm:border-coolGray-100";
         case "blueGray":
             return "sm:border-blueGray-100";
-
-    }
-};
-
-export const smBorder200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBorderColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:border-black-200";
         case "white":
             return "sm:border-white-200";
@@ -3387,13 +3334,12 @@ export const smBorder200 = (color) => {
             return "sm:border-coolGray-200";
         case "blueGray":
             return "sm:border-blueGray-200";
-
-    }
-};
-
-export const smBorder300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBorderColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:border-black-300";
         case "white":
             return "sm:border-white-300";
@@ -3451,13 +3397,12 @@ export const smBorder300 = (color) => {
             return "sm:border-coolGray-300";
         case "blueGray":
             return "sm:border-blueGray-300";
-
-    }
-};
-
-export const smBorder400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBorderColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:border-black-400";
         case "white":
             return "sm:border-white-400";
@@ -3515,13 +3460,12 @@ export const smBorder400 = (color) => {
             return "sm:border-coolGray-400";
         case "blueGray":
             return "sm:border-blueGray-400";
-
-    }
-};
-
-export const smBorder500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBorderColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:border-black-500";
         case "white":
             return "sm:border-white-500";
@@ -3579,13 +3523,12 @@ export const smBorder500 = (color) => {
             return "sm:border-coolGray-500";
         case "blueGray":
             return "sm:border-blueGray-500";
-
-    }
-};
-
-export const smBorder600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBorderColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:border-black-600";
         case "white":
             return "sm:border-white-600";
@@ -3643,13 +3586,12 @@ export const smBorder600 = (color) => {
             return "sm:border-coolGray-600";
         case "blueGray":
             return "sm:border-blueGray-600";
-
-    }
-};
-
-export const smBorder700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBorderColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:border-black-700";
         case "white":
             return "sm:border-white-700";
@@ -3707,13 +3649,12 @@ export const smBorder700 = (color) => {
             return "sm:border-coolGray-700";
         case "blueGray":
             return "sm:border-blueGray-700";
-
-    }
-};
-
-export const smBorder800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBorderColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:border-black-800";
         case "white":
             return "sm:border-white-800";
@@ -3771,13 +3712,12 @@ export const smBorder800 = (color) => {
             return "sm:border-coolGray-800";
         case "blueGray":
             return "sm:border-blueGray-800";
-
-    }
-};
-
-export const smBorder900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const smBorderColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "sm:border-black-900";
         case "white":
             return "sm:border-white-900";
@@ -3835,13 +3775,12 @@ export const smBorder900 = (color) => {
             return "sm:border-coolGray-900";
         case "blueGray":
             return "sm:border-blueGray-900";
-
-    }
-};
-
-export const lgBg50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBgColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:bg-black-50";
         case "white":
             return "lg:bg-white-50";
@@ -3899,13 +3838,12 @@ export const lgBg50 = (color) => {
             return "lg:bg-coolGray-50";
         case "blueGray":
             return "lg:bg-blueGray-50";
-
-    }
-};
-
-export const lgBg100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBgColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:bg-black-100";
         case "white":
             return "lg:bg-white-100";
@@ -3963,13 +3901,12 @@ export const lgBg100 = (color) => {
             return "lg:bg-coolGray-100";
         case "blueGray":
             return "lg:bg-blueGray-100";
-
-    }
-};
-
-export const lgBg200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBgColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:bg-black-200";
         case "white":
             return "lg:bg-white-200";
@@ -4027,13 +3964,12 @@ export const lgBg200 = (color) => {
             return "lg:bg-coolGray-200";
         case "blueGray":
             return "lg:bg-blueGray-200";
-
-    }
-};
-
-export const lgBg300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBgColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:bg-black-300";
         case "white":
             return "lg:bg-white-300";
@@ -4091,13 +4027,12 @@ export const lgBg300 = (color) => {
             return "lg:bg-coolGray-300";
         case "blueGray":
             return "lg:bg-blueGray-300";
-
-    }
-};
-
-export const lgBg400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBgColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:bg-black-400";
         case "white":
             return "lg:bg-white-400";
@@ -4155,13 +4090,12 @@ export const lgBg400 = (color) => {
             return "lg:bg-coolGray-400";
         case "blueGray":
             return "lg:bg-blueGray-400";
-
-    }
-};
-
-export const lgBg500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBgColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:bg-black-500";
         case "white":
             return "lg:bg-white-500";
@@ -4219,13 +4153,12 @@ export const lgBg500 = (color) => {
             return "lg:bg-coolGray-500";
         case "blueGray":
             return "lg:bg-blueGray-500";
-
-    }
-};
-
-export const lgBg600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBgColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:bg-black-600";
         case "white":
             return "lg:bg-white-600";
@@ -4283,13 +4216,12 @@ export const lgBg600 = (color) => {
             return "lg:bg-coolGray-600";
         case "blueGray":
             return "lg:bg-blueGray-600";
-
-    }
-};
-
-export const lgBg700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBgColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:bg-black-700";
         case "white":
             return "lg:bg-white-700";
@@ -4347,13 +4279,12 @@ export const lgBg700 = (color) => {
             return "lg:bg-coolGray-700";
         case "blueGray":
             return "lg:bg-blueGray-700";
-
-    }
-};
-
-export const lgBg800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBgColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:bg-black-800";
         case "white":
             return "lg:bg-white-800";
@@ -4411,13 +4342,12 @@ export const lgBg800 = (color) => {
             return "lg:bg-coolGray-800";
         case "blueGray":
             return "lg:bg-blueGray-800";
-
-    }
-};
-
-export const lgBg900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBgColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:bg-black-900";
         case "white":
             return "lg:bg-white-900";
@@ -4475,13 +4405,12 @@ export const lgBg900 = (color) => {
             return "lg:bg-coolGray-900";
         case "blueGray":
             return "lg:bg-blueGray-900";
-
-    }
-};
-
-export const lgText50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgTextColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:text-black-50";
         case "white":
             return "lg:text-white-50";
@@ -4539,13 +4468,12 @@ export const lgText50 = (color) => {
             return "lg:text-coolGray-50";
         case "blueGray":
             return "lg:text-blueGray-50";
-
-    }
-};
-
-export const lgText100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgTextColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:text-black-100";
         case "white":
             return "lg:text-white-100";
@@ -4603,13 +4531,12 @@ export const lgText100 = (color) => {
             return "lg:text-coolGray-100";
         case "blueGray":
             return "lg:text-blueGray-100";
-
-    }
-};
-
-export const lgText200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgTextColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:text-black-200";
         case "white":
             return "lg:text-white-200";
@@ -4667,13 +4594,12 @@ export const lgText200 = (color) => {
             return "lg:text-coolGray-200";
         case "blueGray":
             return "lg:text-blueGray-200";
-
-    }
-};
-
-export const lgText300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgTextColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:text-black-300";
         case "white":
             return "lg:text-white-300";
@@ -4731,13 +4657,12 @@ export const lgText300 = (color) => {
             return "lg:text-coolGray-300";
         case "blueGray":
             return "lg:text-blueGray-300";
-
-    }
-};
-
-export const lgText400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgTextColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:text-black-400";
         case "white":
             return "lg:text-white-400";
@@ -4795,13 +4720,12 @@ export const lgText400 = (color) => {
             return "lg:text-coolGray-400";
         case "blueGray":
             return "lg:text-blueGray-400";
-
-    }
-};
-
-export const lgText500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgTextColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:text-black-500";
         case "white":
             return "lg:text-white-500";
@@ -4859,13 +4783,12 @@ export const lgText500 = (color) => {
             return "lg:text-coolGray-500";
         case "blueGray":
             return "lg:text-blueGray-500";
-
-    }
-};
-
-export const lgText600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgTextColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:text-black-600";
         case "white":
             return "lg:text-white-600";
@@ -4923,13 +4846,12 @@ export const lgText600 = (color) => {
             return "lg:text-coolGray-600";
         case "blueGray":
             return "lg:text-blueGray-600";
-
-    }
-};
-
-export const lgText700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgTextColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:text-black-700";
         case "white":
             return "lg:text-white-700";
@@ -4987,13 +4909,12 @@ export const lgText700 = (color) => {
             return "lg:text-coolGray-700";
         case "blueGray":
             return "lg:text-blueGray-700";
-
-    }
-};
-
-export const lgText800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgTextColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:text-black-800";
         case "white":
             return "lg:text-white-800";
@@ -5051,13 +4972,12 @@ export const lgText800 = (color) => {
             return "lg:text-coolGray-800";
         case "blueGray":
             return "lg:text-blueGray-800";
-
-    }
-};
-
-export const lgText900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgTextColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:text-black-900";
         case "white":
             return "lg:text-white-900";
@@ -5115,13 +5035,12 @@ export const lgText900 = (color) => {
             return "lg:text-coolGray-900";
         case "blueGray":
             return "lg:text-blueGray-900";
-
-    }
-};
-
-export const lgBorder50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBorderColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:border-black-50";
         case "white":
             return "lg:border-white-50";
@@ -5179,13 +5098,12 @@ export const lgBorder50 = (color) => {
             return "lg:border-coolGray-50";
         case "blueGray":
             return "lg:border-blueGray-50";
-
-    }
-};
-
-export const lgBorder100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBorderColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:border-black-100";
         case "white":
             return "lg:border-white-100";
@@ -5243,13 +5161,12 @@ export const lgBorder100 = (color) => {
             return "lg:border-coolGray-100";
         case "blueGray":
             return "lg:border-blueGray-100";
-
-    }
-};
-
-export const lgBorder200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBorderColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:border-black-200";
         case "white":
             return "lg:border-white-200";
@@ -5307,13 +5224,12 @@ export const lgBorder200 = (color) => {
             return "lg:border-coolGray-200";
         case "blueGray":
             return "lg:border-blueGray-200";
-
-    }
-};
-
-export const lgBorder300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBorderColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:border-black-300";
         case "white":
             return "lg:border-white-300";
@@ -5371,13 +5287,12 @@ export const lgBorder300 = (color) => {
             return "lg:border-coolGray-300";
         case "blueGray":
             return "lg:border-blueGray-300";
-
-    }
-};
-
-export const lgBorder400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBorderColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:border-black-400";
         case "white":
             return "lg:border-white-400";
@@ -5435,13 +5350,12 @@ export const lgBorder400 = (color) => {
             return "lg:border-coolGray-400";
         case "blueGray":
             return "lg:border-blueGray-400";
-
-    }
-};
-
-export const lgBorder500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBorderColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:border-black-500";
         case "white":
             return "lg:border-white-500";
@@ -5499,13 +5413,12 @@ export const lgBorder500 = (color) => {
             return "lg:border-coolGray-500";
         case "blueGray":
             return "lg:border-blueGray-500";
-
-    }
-};
-
-export const lgBorder600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBorderColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:border-black-600";
         case "white":
             return "lg:border-white-600";
@@ -5563,13 +5476,12 @@ export const lgBorder600 = (color) => {
             return "lg:border-coolGray-600";
         case "blueGray":
             return "lg:border-blueGray-600";
-
-    }
-};
-
-export const lgBorder700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBorderColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:border-black-700";
         case "white":
             return "lg:border-white-700";
@@ -5627,13 +5539,12 @@ export const lgBorder700 = (color) => {
             return "lg:border-coolGray-700";
         case "blueGray":
             return "lg:border-blueGray-700";
-
-    }
-};
-
-export const lgBorder800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBorderColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:border-black-800";
         case "white":
             return "lg:border-white-800";
@@ -5691,13 +5602,12 @@ export const lgBorder800 = (color) => {
             return "lg:border-coolGray-800";
         case "blueGray":
             return "lg:border-blueGray-800";
-
-    }
-};
-
-export const lgBorder900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const lgBorderColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "lg:border-black-900";
         case "white":
             return "lg:border-white-900";
@@ -5755,13 +5665,12 @@ export const lgBorder900 = (color) => {
             return "lg:border-coolGray-900";
         case "blueGray":
             return "lg:border-blueGray-900";
-
-    }
-};
-
-export const mdBg50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBgColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "md:bg-black-50";
         case "white":
             return "md:bg-white-50";
@@ -5819,13 +5728,12 @@ export const mdBg50 = (color) => {
             return "md:bg-coolGray-50";
         case "blueGray":
             return "md:bg-blueGray-50";
-
-    }
-};
-
-export const mdBg100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBgColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "md:bg-black-100";
         case "white":
             return "md:bg-white-100";
@@ -5883,13 +5791,12 @@ export const mdBg100 = (color) => {
             return "md:bg-coolGray-100";
         case "blueGray":
             return "md:bg-blueGray-100";
-
-    }
-};
-
-export const mdBg200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBgColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "md:bg-black-200";
         case "white":
             return "md:bg-white-200";
@@ -5947,13 +5854,12 @@ export const mdBg200 = (color) => {
             return "md:bg-coolGray-200";
         case "blueGray":
             return "md:bg-blueGray-200";
-
-    }
-};
-
-export const mdBg300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBgColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "md:bg-black-300";
         case "white":
             return "md:bg-white-300";
@@ -6011,13 +5917,12 @@ export const mdBg300 = (color) => {
             return "md:bg-coolGray-300";
         case "blueGray":
             return "md:bg-blueGray-300";
-
-    }
-};
-
-export const mdBg400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBgColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "md:bg-black-400";
         case "white":
             return "md:bg-white-400";
@@ -6075,13 +5980,12 @@ export const mdBg400 = (color) => {
             return "md:bg-coolGray-400";
         case "blueGray":
             return "md:bg-blueGray-400";
-
-    }
-};
-
-export const mdBg500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBgColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "md:bg-black-500";
         case "white":
             return "md:bg-white-500";
@@ -6139,13 +6043,12 @@ export const mdBg500 = (color) => {
             return "md:bg-coolGray-500";
         case "blueGray":
             return "md:bg-blueGray-500";
-
-    }
-};
-
-export const mdBg600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBgColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "md:bg-black-600";
         case "white":
             return "md:bg-white-600";
@@ -6203,13 +6106,12 @@ export const mdBg600 = (color) => {
             return "md:bg-coolGray-600";
         case "blueGray":
             return "md:bg-blueGray-600";
-
-    }
-};
-
-export const mdBg700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBgColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "md:bg-black-700";
         case "white":
             return "md:bg-white-700";
@@ -6267,13 +6169,12 @@ export const mdBg700 = (color) => {
             return "md:bg-coolGray-700";
         case "blueGray":
             return "md:bg-blueGray-700";
-
-    }
-};
-
-export const mdBg800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBgColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "md:bg-black-800";
         case "white":
             return "md:bg-white-800";
@@ -6331,13 +6232,12 @@ export const mdBg800 = (color) => {
             return "md:bg-coolGray-800";
         case "blueGray":
             return "md:bg-blueGray-800";
-
-    }
-};
-
-export const mdBg900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBgColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "md:bg-black-900";
         case "white":
             return "md:bg-white-900";
@@ -6395,13 +6295,12 @@ export const mdBg900 = (color) => {
             return "md:bg-coolGray-900";
         case "blueGray":
             return "md:bg-blueGray-900";
-
-    }
-};
-
-export const mdText50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdTextColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "md:text-black-50";
         case "white":
             return "md:text-white-50";
@@ -6459,13 +6358,12 @@ export const mdText50 = (color) => {
             return "md:text-coolGray-50";
         case "blueGray":
             return "md:text-blueGray-50";
-
-    }
-};
-
-export const mdText100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdTextColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "md:text-black-100";
         case "white":
             return "md:text-white-100";
@@ -6523,13 +6421,12 @@ export const mdText100 = (color) => {
             return "md:text-coolGray-100";
         case "blueGray":
             return "md:text-blueGray-100";
-
-    }
-};
-
-export const mdText200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdTextColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "md:text-black-200";
         case "white":
             return "md:text-white-200";
@@ -6587,13 +6484,12 @@ export const mdText200 = (color) => {
             return "md:text-coolGray-200";
         case "blueGray":
             return "md:text-blueGray-200";
-
-    }
-};
-
-export const mdText300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdTextColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "md:text-black-300";
         case "white":
             return "md:text-white-300";
@@ -6651,13 +6547,12 @@ export const mdText300 = (color) => {
             return "md:text-coolGray-300";
         case "blueGray":
             return "md:text-blueGray-300";
-
-    }
-};
-
-export const mdText400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdTextColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "md:text-black-400";
         case "white":
             return "md:text-white-400";
@@ -6715,13 +6610,12 @@ export const mdText400 = (color) => {
             return "md:text-coolGray-400";
         case "blueGray":
             return "md:text-blueGray-400";
-
-    }
-};
-
-export const mdText500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdTextColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "md:text-black-500";
         case "white":
             return "md:text-white-500";
@@ -6779,13 +6673,12 @@ export const mdText500 = (color) => {
             return "md:text-coolGray-500";
         case "blueGray":
             return "md:text-blueGray-500";
-
-    }
-};
-
-export const mdText600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdTextColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "md:text-black-600";
         case "white":
             return "md:text-white-600";
@@ -6843,13 +6736,12 @@ export const mdText600 = (color) => {
             return "md:text-coolGray-600";
         case "blueGray":
             return "md:text-blueGray-600";
-
-    }
-};
-
-export const mdText700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdTextColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "md:text-black-700";
         case "white":
             return "md:text-white-700";
@@ -6907,13 +6799,12 @@ export const mdText700 = (color) => {
             return "md:text-coolGray-700";
         case "blueGray":
             return "md:text-blueGray-700";
-
-    }
-};
-
-export const mdText800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdTextColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "md:text-black-800";
         case "white":
             return "md:text-white-800";
@@ -6971,13 +6862,12 @@ export const mdText800 = (color) => {
             return "md:text-coolGray-800";
         case "blueGray":
             return "md:text-blueGray-800";
-
-    }
-};
-
-export const mdText900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdTextColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "md:text-black-900";
         case "white":
             return "md:text-white-900";
@@ -7035,13 +6925,12 @@ export const mdText900 = (color) => {
             return "md:text-coolGray-900";
         case "blueGray":
             return "md:text-blueGray-900";
-
-    }
-};
-
-export const mdBorder50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBorderColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "md:border-black-50";
         case "white":
             return "md:border-white-50";
@@ -7099,13 +6988,12 @@ export const mdBorder50 = (color) => {
             return "md:border-coolGray-50";
         case "blueGray":
             return "md:border-blueGray-50";
-
-    }
-};
-
-export const mdBorder100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBorderColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "md:border-black-100";
         case "white":
             return "md:border-white-100";
@@ -7163,13 +7051,12 @@ export const mdBorder100 = (color) => {
             return "md:border-coolGray-100";
         case "blueGray":
             return "md:border-blueGray-100";
-
-    }
-};
-
-export const mdBorder200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBorderColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "md:border-black-200";
         case "white":
             return "md:border-white-200";
@@ -7227,13 +7114,12 @@ export const mdBorder200 = (color) => {
             return "md:border-coolGray-200";
         case "blueGray":
             return "md:border-blueGray-200";
-
-    }
-};
-
-export const mdBorder300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBorderColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "md:border-black-300";
         case "white":
             return "md:border-white-300";
@@ -7291,13 +7177,12 @@ export const mdBorder300 = (color) => {
             return "md:border-coolGray-300";
         case "blueGray":
             return "md:border-blueGray-300";
-
-    }
-};
-
-export const mdBorder400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBorderColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "md:border-black-400";
         case "white":
             return "md:border-white-400";
@@ -7355,13 +7240,12 @@ export const mdBorder400 = (color) => {
             return "md:border-coolGray-400";
         case "blueGray":
             return "md:border-blueGray-400";
-
-    }
-};
-
-export const mdBorder500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBorderColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "md:border-black-500";
         case "white":
             return "md:border-white-500";
@@ -7419,13 +7303,12 @@ export const mdBorder500 = (color) => {
             return "md:border-coolGray-500";
         case "blueGray":
             return "md:border-blueGray-500";
-
-    }
-};
-
-export const mdBorder600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBorderColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "md:border-black-600";
         case "white":
             return "md:border-white-600";
@@ -7483,13 +7366,12 @@ export const mdBorder600 = (color) => {
             return "md:border-coolGray-600";
         case "blueGray":
             return "md:border-blueGray-600";
-
-    }
-};
-
-export const mdBorder700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBorderColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "md:border-black-700";
         case "white":
             return "md:border-white-700";
@@ -7547,13 +7429,12 @@ export const mdBorder700 = (color) => {
             return "md:border-coolGray-700";
         case "blueGray":
             return "md:border-blueGray-700";
-
-    }
-};
-
-export const mdBorder800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBorderColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "md:border-black-800";
         case "white":
             return "md:border-white-800";
@@ -7611,13 +7492,12 @@ export const mdBorder800 = (color) => {
             return "md:border-coolGray-800";
         case "blueGray":
             return "md:border-blueGray-800";
-
-    }
-};
-
-export const mdBorder900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const mdBorderColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "md:border-black-900";
         case "white":
             return "md:border-white-900";
@@ -7675,13 +7555,12 @@ export const mdBorder900 = (color) => {
             return "md:border-coolGray-900";
         case "blueGray":
             return "md:border-blueGray-900";
-
-    }
-};
-
-export const xlgBg50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBgColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:bg-black-50";
         case "white":
             return "xlg:bg-white-50";
@@ -7739,13 +7618,12 @@ export const xlgBg50 = (color) => {
             return "xlg:bg-coolGray-50";
         case "blueGray":
             return "xlg:bg-blueGray-50";
-
-    }
-};
-
-export const xlgBg100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBgColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:bg-black-100";
         case "white":
             return "xlg:bg-white-100";
@@ -7803,13 +7681,12 @@ export const xlgBg100 = (color) => {
             return "xlg:bg-coolGray-100";
         case "blueGray":
             return "xlg:bg-blueGray-100";
-
-    }
-};
-
-export const xlgBg200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBgColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:bg-black-200";
         case "white":
             return "xlg:bg-white-200";
@@ -7867,13 +7744,12 @@ export const xlgBg200 = (color) => {
             return "xlg:bg-coolGray-200";
         case "blueGray":
             return "xlg:bg-blueGray-200";
-
-    }
-};
-
-export const xlgBg300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBgColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:bg-black-300";
         case "white":
             return "xlg:bg-white-300";
@@ -7931,13 +7807,12 @@ export const xlgBg300 = (color) => {
             return "xlg:bg-coolGray-300";
         case "blueGray":
             return "xlg:bg-blueGray-300";
-
-    }
-};
-
-export const xlgBg400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBgColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:bg-black-400";
         case "white":
             return "xlg:bg-white-400";
@@ -7995,13 +7870,12 @@ export const xlgBg400 = (color) => {
             return "xlg:bg-coolGray-400";
         case "blueGray":
             return "xlg:bg-blueGray-400";
-
-    }
-};
-
-export const xlgBg500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBgColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:bg-black-500";
         case "white":
             return "xlg:bg-white-500";
@@ -8059,13 +7933,12 @@ export const xlgBg500 = (color) => {
             return "xlg:bg-coolGray-500";
         case "blueGray":
             return "xlg:bg-blueGray-500";
-
-    }
-};
-
-export const xlgBg600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBgColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:bg-black-600";
         case "white":
             return "xlg:bg-white-600";
@@ -8123,13 +7996,12 @@ export const xlgBg600 = (color) => {
             return "xlg:bg-coolGray-600";
         case "blueGray":
             return "xlg:bg-blueGray-600";
-
-    }
-};
-
-export const xlgBg700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBgColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:bg-black-700";
         case "white":
             return "xlg:bg-white-700";
@@ -8187,13 +8059,12 @@ export const xlgBg700 = (color) => {
             return "xlg:bg-coolGray-700";
         case "blueGray":
             return "xlg:bg-blueGray-700";
-
-    }
-};
-
-export const xlgBg800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBgColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:bg-black-800";
         case "white":
             return "xlg:bg-white-800";
@@ -8251,13 +8122,12 @@ export const xlgBg800 = (color) => {
             return "xlg:bg-coolGray-800";
         case "blueGray":
             return "xlg:bg-blueGray-800";
-
-    }
-};
-
-export const xlgBg900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBgColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:bg-black-900";
         case "white":
             return "xlg:bg-white-900";
@@ -8315,13 +8185,12 @@ export const xlgBg900 = (color) => {
             return "xlg:bg-coolGray-900";
         case "blueGray":
             return "xlg:bg-blueGray-900";
-
-    }
-};
-
-export const xlgText50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgTextColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:text-black-50";
         case "white":
             return "xlg:text-white-50";
@@ -8379,13 +8248,12 @@ export const xlgText50 = (color) => {
             return "xlg:text-coolGray-50";
         case "blueGray":
             return "xlg:text-blueGray-50";
-
-    }
-};
-
-export const xlgText100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgTextColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:text-black-100";
         case "white":
             return "xlg:text-white-100";
@@ -8443,13 +8311,12 @@ export const xlgText100 = (color) => {
             return "xlg:text-coolGray-100";
         case "blueGray":
             return "xlg:text-blueGray-100";
-
-    }
-};
-
-export const xlgText200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgTextColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:text-black-200";
         case "white":
             return "xlg:text-white-200";
@@ -8507,13 +8374,12 @@ export const xlgText200 = (color) => {
             return "xlg:text-coolGray-200";
         case "blueGray":
             return "xlg:text-blueGray-200";
-
-    }
-};
-
-export const xlgText300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgTextColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:text-black-300";
         case "white":
             return "xlg:text-white-300";
@@ -8571,13 +8437,12 @@ export const xlgText300 = (color) => {
             return "xlg:text-coolGray-300";
         case "blueGray":
             return "xlg:text-blueGray-300";
-
-    }
-};
-
-export const xlgText400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgTextColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:text-black-400";
         case "white":
             return "xlg:text-white-400";
@@ -8635,13 +8500,12 @@ export const xlgText400 = (color) => {
             return "xlg:text-coolGray-400";
         case "blueGray":
             return "xlg:text-blueGray-400";
-
-    }
-};
-
-export const xlgText500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgTextColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:text-black-500";
         case "white":
             return "xlg:text-white-500";
@@ -8699,13 +8563,12 @@ export const xlgText500 = (color) => {
             return "xlg:text-coolGray-500";
         case "blueGray":
             return "xlg:text-blueGray-500";
-
-    }
-};
-
-export const xlgText600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgTextColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:text-black-600";
         case "white":
             return "xlg:text-white-600";
@@ -8763,13 +8626,12 @@ export const xlgText600 = (color) => {
             return "xlg:text-coolGray-600";
         case "blueGray":
             return "xlg:text-blueGray-600";
-
-    }
-};
-
-export const xlgText700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgTextColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:text-black-700";
         case "white":
             return "xlg:text-white-700";
@@ -8827,13 +8689,12 @@ export const xlgText700 = (color) => {
             return "xlg:text-coolGray-700";
         case "blueGray":
             return "xlg:text-blueGray-700";
-
-    }
-};
-
-export const xlgText800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgTextColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:text-black-800";
         case "white":
             return "xlg:text-white-800";
@@ -8891,13 +8752,12 @@ export const xlgText800 = (color) => {
             return "xlg:text-coolGray-800";
         case "blueGray":
             return "xlg:text-blueGray-800";
-
-    }
-};
-
-export const xlgText900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgTextColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:text-black-900";
         case "white":
             return "xlg:text-white-900";
@@ -8955,13 +8815,12 @@ export const xlgText900 = (color) => {
             return "xlg:text-coolGray-900";
         case "blueGray":
             return "xlg:text-blueGray-900";
-
-    }
-};
-
-export const xlgBorder50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBorderColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:border-black-50";
         case "white":
             return "xlg:border-white-50";
@@ -9019,13 +8878,12 @@ export const xlgBorder50 = (color) => {
             return "xlg:border-coolGray-50";
         case "blueGray":
             return "xlg:border-blueGray-50";
-
-    }
-};
-
-export const xlgBorder100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBorderColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:border-black-100";
         case "white":
             return "xlg:border-white-100";
@@ -9083,13 +8941,12 @@ export const xlgBorder100 = (color) => {
             return "xlg:border-coolGray-100";
         case "blueGray":
             return "xlg:border-blueGray-100";
-
-    }
-};
-
-export const xlgBorder200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBorderColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:border-black-200";
         case "white":
             return "xlg:border-white-200";
@@ -9147,13 +9004,12 @@ export const xlgBorder200 = (color) => {
             return "xlg:border-coolGray-200";
         case "blueGray":
             return "xlg:border-blueGray-200";
-
-    }
-};
-
-export const xlgBorder300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBorderColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:border-black-300";
         case "white":
             return "xlg:border-white-300";
@@ -9211,13 +9067,12 @@ export const xlgBorder300 = (color) => {
             return "xlg:border-coolGray-300";
         case "blueGray":
             return "xlg:border-blueGray-300";
-
-    }
-};
-
-export const xlgBorder400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBorderColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:border-black-400";
         case "white":
             return "xlg:border-white-400";
@@ -9275,13 +9130,12 @@ export const xlgBorder400 = (color) => {
             return "xlg:border-coolGray-400";
         case "blueGray":
             return "xlg:border-blueGray-400";
-
-    }
-};
-
-export const xlgBorder500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBorderColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:border-black-500";
         case "white":
             return "xlg:border-white-500";
@@ -9339,13 +9193,12 @@ export const xlgBorder500 = (color) => {
             return "xlg:border-coolGray-500";
         case "blueGray":
             return "xlg:border-blueGray-500";
-
-    }
-};
-
-export const xlgBorder600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBorderColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:border-black-600";
         case "white":
             return "xlg:border-white-600";
@@ -9403,13 +9256,12 @@ export const xlgBorder600 = (color) => {
             return "xlg:border-coolGray-600";
         case "blueGray":
             return "xlg:border-blueGray-600";
-
-    }
-};
-
-export const xlgBorder700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBorderColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:border-black-700";
         case "white":
             return "xlg:border-white-700";
@@ -9467,13 +9319,12 @@ export const xlgBorder700 = (color) => {
             return "xlg:border-coolGray-700";
         case "blueGray":
             return "xlg:border-blueGray-700";
-
-    }
-};
-
-export const xlgBorder800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBorderColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:border-black-800";
         case "white":
             return "xlg:border-white-800";
@@ -9531,13 +9382,12 @@ export const xlgBorder800 = (color) => {
             return "xlg:border-coolGray-800";
         case "blueGray":
             return "xlg:border-blueGray-800";
-
-    }
-};
-
-export const xlgBorder900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const xlgBorderColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "xlg:border-black-900";
         case "white":
             return "xlg:border-white-900";
@@ -9595,13 +9445,12 @@ export const xlgBorder900 = (color) => {
             return "xlg:border-coolGray-900";
         case "blueGray":
             return "xlg:border-blueGray-900";
-
-    }
-};
-
-export const darkBg50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBgColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:bg-black-50";
         case "white":
             return "dark:bg-white-50";
@@ -9659,13 +9508,12 @@ export const darkBg50 = (color) => {
             return "dark:bg-coolGray-50";
         case "blueGray":
             return "dark:bg-blueGray-50";
-
-    }
-};
-
-export const darkBg100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBgColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:bg-black-100";
         case "white":
             return "dark:bg-white-100";
@@ -9723,13 +9571,12 @@ export const darkBg100 = (color) => {
             return "dark:bg-coolGray-100";
         case "blueGray":
             return "dark:bg-blueGray-100";
-
-    }
-};
-
-export const darkBg200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBgColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:bg-black-200";
         case "white":
             return "dark:bg-white-200";
@@ -9787,13 +9634,12 @@ export const darkBg200 = (color) => {
             return "dark:bg-coolGray-200";
         case "blueGray":
             return "dark:bg-blueGray-200";
-
-    }
-};
-
-export const darkBg300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBgColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:bg-black-300";
         case "white":
             return "dark:bg-white-300";
@@ -9851,13 +9697,12 @@ export const darkBg300 = (color) => {
             return "dark:bg-coolGray-300";
         case "blueGray":
             return "dark:bg-blueGray-300";
-
-    }
-};
-
-export const darkBg400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBgColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:bg-black-400";
         case "white":
             return "dark:bg-white-400";
@@ -9915,13 +9760,12 @@ export const darkBg400 = (color) => {
             return "dark:bg-coolGray-400";
         case "blueGray":
             return "dark:bg-blueGray-400";
-
-    }
-};
-
-export const darkBg500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBgColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:bg-black-500";
         case "white":
             return "dark:bg-white-500";
@@ -9979,13 +9823,12 @@ export const darkBg500 = (color) => {
             return "dark:bg-coolGray-500";
         case "blueGray":
             return "dark:bg-blueGray-500";
-
-    }
-};
-
-export const darkBg600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBgColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:bg-black-600";
         case "white":
             return "dark:bg-white-600";
@@ -10043,13 +9886,12 @@ export const darkBg600 = (color) => {
             return "dark:bg-coolGray-600";
         case "blueGray":
             return "dark:bg-blueGray-600";
-
-    }
-};
-
-export const darkBg700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBgColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:bg-black-700";
         case "white":
             return "dark:bg-white-700";
@@ -10107,13 +9949,12 @@ export const darkBg700 = (color) => {
             return "dark:bg-coolGray-700";
         case "blueGray":
             return "dark:bg-blueGray-700";
-
-    }
-};
-
-export const darkBg800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBgColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:bg-black-800";
         case "white":
             return "dark:bg-white-800";
@@ -10171,13 +10012,12 @@ export const darkBg800 = (color) => {
             return "dark:bg-coolGray-800";
         case "blueGray":
             return "dark:bg-blueGray-800";
-
-    }
-};
-
-export const darkBg900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBgColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:bg-black-900";
         case "white":
             return "dark:bg-white-900";
@@ -10235,13 +10075,12 @@ export const darkBg900 = (color) => {
             return "dark:bg-coolGray-900";
         case "blueGray":
             return "dark:bg-blueGray-900";
-
-    }
-};
-
-export const darkText50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkTextColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:text-black-50";
         case "white":
             return "dark:text-white-50";
@@ -10299,13 +10138,12 @@ export const darkText50 = (color) => {
             return "dark:text-coolGray-50";
         case "blueGray":
             return "dark:text-blueGray-50";
-
-    }
-};
-
-export const darkText100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkTextColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:text-black-100";
         case "white":
             return "dark:text-white-100";
@@ -10363,13 +10201,12 @@ export const darkText100 = (color) => {
             return "dark:text-coolGray-100";
         case "blueGray":
             return "dark:text-blueGray-100";
-
-    }
-};
-
-export const darkText200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkTextColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:text-black-200";
         case "white":
             return "dark:text-white-200";
@@ -10427,13 +10264,12 @@ export const darkText200 = (color) => {
             return "dark:text-coolGray-200";
         case "blueGray":
             return "dark:text-blueGray-200";
-
-    }
-};
-
-export const darkText300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkTextColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:text-black-300";
         case "white":
             return "dark:text-white-300";
@@ -10491,13 +10327,12 @@ export const darkText300 = (color) => {
             return "dark:text-coolGray-300";
         case "blueGray":
             return "dark:text-blueGray-300";
-
-    }
-};
-
-export const darkText400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkTextColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:text-black-400";
         case "white":
             return "dark:text-white-400";
@@ -10555,13 +10390,12 @@ export const darkText400 = (color) => {
             return "dark:text-coolGray-400";
         case "blueGray":
             return "dark:text-blueGray-400";
-
-    }
-};
-
-export const darkText500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkTextColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:text-black-500";
         case "white":
             return "dark:text-white-500";
@@ -10619,13 +10453,12 @@ export const darkText500 = (color) => {
             return "dark:text-coolGray-500";
         case "blueGray":
             return "dark:text-blueGray-500";
-
-    }
-};
-
-export const darkText600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkTextColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:text-black-600";
         case "white":
             return "dark:text-white-600";
@@ -10683,13 +10516,12 @@ export const darkText600 = (color) => {
             return "dark:text-coolGray-600";
         case "blueGray":
             return "dark:text-blueGray-600";
-
-    }
-};
-
-export const darkText700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkTextColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:text-black-700";
         case "white":
             return "dark:text-white-700";
@@ -10747,13 +10579,12 @@ export const darkText700 = (color) => {
             return "dark:text-coolGray-700";
         case "blueGray":
             return "dark:text-blueGray-700";
-
-    }
-};
-
-export const darkText800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkTextColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:text-black-800";
         case "white":
             return "dark:text-white-800";
@@ -10811,13 +10642,12 @@ export const darkText800 = (color) => {
             return "dark:text-coolGray-800";
         case "blueGray":
             return "dark:text-blueGray-800";
-
-    }
-};
-
-export const darkText900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkTextColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:text-black-900";
         case "white":
             return "dark:text-white-900";
@@ -10875,13 +10705,12 @@ export const darkText900 = (color) => {
             return "dark:text-coolGray-900";
         case "blueGray":
             return "dark:text-blueGray-900";
-
-    }
-};
-
-export const darkBorder50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBorderColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:border-black-50";
         case "white":
             return "dark:border-white-50";
@@ -10939,13 +10768,12 @@ export const darkBorder50 = (color) => {
             return "dark:border-coolGray-50";
         case "blueGray":
             return "dark:border-blueGray-50";
-
-    }
-};
-
-export const darkBorder100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBorderColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:border-black-100";
         case "white":
             return "dark:border-white-100";
@@ -11003,13 +10831,12 @@ export const darkBorder100 = (color) => {
             return "dark:border-coolGray-100";
         case "blueGray":
             return "dark:border-blueGray-100";
-
-    }
-};
-
-export const darkBorder200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBorderColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:border-black-200";
         case "white":
             return "dark:border-white-200";
@@ -11067,13 +10894,12 @@ export const darkBorder200 = (color) => {
             return "dark:border-coolGray-200";
         case "blueGray":
             return "dark:border-blueGray-200";
-
-    }
-};
-
-export const darkBorder300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBorderColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:border-black-300";
         case "white":
             return "dark:border-white-300";
@@ -11131,13 +10957,12 @@ export const darkBorder300 = (color) => {
             return "dark:border-coolGray-300";
         case "blueGray":
             return "dark:border-blueGray-300";
-
-    }
-};
-
-export const darkBorder400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBorderColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:border-black-400";
         case "white":
             return "dark:border-white-400";
@@ -11195,13 +11020,12 @@ export const darkBorder400 = (color) => {
             return "dark:border-coolGray-400";
         case "blueGray":
             return "dark:border-blueGray-400";
-
-    }
-};
-
-export const darkBorder500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBorderColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:border-black-500";
         case "white":
             return "dark:border-white-500";
@@ -11259,13 +11083,12 @@ export const darkBorder500 = (color) => {
             return "dark:border-coolGray-500";
         case "blueGray":
             return "dark:border-blueGray-500";
-
-    }
-};
-
-export const darkBorder600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBorderColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:border-black-600";
         case "white":
             return "dark:border-white-600";
@@ -11323,13 +11146,12 @@ export const darkBorder600 = (color) => {
             return "dark:border-coolGray-600";
         case "blueGray":
             return "dark:border-blueGray-600";
-
-    }
-};
-
-export const darkBorder700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBorderColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:border-black-700";
         case "white":
             return "dark:border-white-700";
@@ -11387,13 +11209,12 @@ export const darkBorder700 = (color) => {
             return "dark:border-coolGray-700";
         case "blueGray":
             return "dark:border-blueGray-700";
-
-    }
-};
-
-export const darkBorder800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBorderColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:border-black-800";
         case "white":
             return "dark:border-white-800";
@@ -11451,13 +11272,12 @@ export const darkBorder800 = (color) => {
             return "dark:border-coolGray-800";
         case "blueGray":
             return "dark:border-blueGray-800";
-
-    }
-};
-
-export const darkBorder900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkBorderColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:border-black-900";
         case "white":
             return "dark:border-white-900";
@@ -11515,13 +11335,12 @@ export const darkBorder900 = (color) => {
             return "dark:border-coolGray-900";
         case "blueGray":
             return "dark:border-blueGray-900";
-
-    }
-};
-
-export const darkSmBg50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBgColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:bg-black-50";
         case "white":
             return "dark:sm:bg-white-50";
@@ -11579,13 +11398,12 @@ export const darkSmBg50 = (color) => {
             return "dark:sm:bg-coolGray-50";
         case "blueGray":
             return "dark:sm:bg-blueGray-50";
-
-    }
-};
-
-export const darkSmBg100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBgColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:bg-black-100";
         case "white":
             return "dark:sm:bg-white-100";
@@ -11643,13 +11461,12 @@ export const darkSmBg100 = (color) => {
             return "dark:sm:bg-coolGray-100";
         case "blueGray":
             return "dark:sm:bg-blueGray-100";
-
-    }
-};
-
-export const darkSmBg200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBgColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:bg-black-200";
         case "white":
             return "dark:sm:bg-white-200";
@@ -11707,13 +11524,12 @@ export const darkSmBg200 = (color) => {
             return "dark:sm:bg-coolGray-200";
         case "blueGray":
             return "dark:sm:bg-blueGray-200";
-
-    }
-};
-
-export const darkSmBg300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBgColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:bg-black-300";
         case "white":
             return "dark:sm:bg-white-300";
@@ -11771,13 +11587,12 @@ export const darkSmBg300 = (color) => {
             return "dark:sm:bg-coolGray-300";
         case "blueGray":
             return "dark:sm:bg-blueGray-300";
-
-    }
-};
-
-export const darkSmBg400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBgColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:bg-black-400";
         case "white":
             return "dark:sm:bg-white-400";
@@ -11835,13 +11650,12 @@ export const darkSmBg400 = (color) => {
             return "dark:sm:bg-coolGray-400";
         case "blueGray":
             return "dark:sm:bg-blueGray-400";
-
-    }
-};
-
-export const darkSmBg500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBgColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:bg-black-500";
         case "white":
             return "dark:sm:bg-white-500";
@@ -11899,13 +11713,12 @@ export const darkSmBg500 = (color) => {
             return "dark:sm:bg-coolGray-500";
         case "blueGray":
             return "dark:sm:bg-blueGray-500";
-
-    }
-};
-
-export const darkSmBg600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBgColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:bg-black-600";
         case "white":
             return "dark:sm:bg-white-600";
@@ -11963,13 +11776,12 @@ export const darkSmBg600 = (color) => {
             return "dark:sm:bg-coolGray-600";
         case "blueGray":
             return "dark:sm:bg-blueGray-600";
-
-    }
-};
-
-export const darkSmBg700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBgColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:bg-black-700";
         case "white":
             return "dark:sm:bg-white-700";
@@ -12027,13 +11839,12 @@ export const darkSmBg700 = (color) => {
             return "dark:sm:bg-coolGray-700";
         case "blueGray":
             return "dark:sm:bg-blueGray-700";
-
-    }
-};
-
-export const darkSmBg800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBgColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:bg-black-800";
         case "white":
             return "dark:sm:bg-white-800";
@@ -12091,13 +11902,12 @@ export const darkSmBg800 = (color) => {
             return "dark:sm:bg-coolGray-800";
         case "blueGray":
             return "dark:sm:bg-blueGray-800";
-
-    }
-};
-
-export const darkSmBg900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBgColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:bg-black-900";
         case "white":
             return "dark:sm:bg-white-900";
@@ -12155,13 +11965,12 @@ export const darkSmBg900 = (color) => {
             return "dark:sm:bg-coolGray-900";
         case "blueGray":
             return "dark:sm:bg-blueGray-900";
-
-    }
-};
-
-export const darkSmText50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmTextColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:text-black-50";
         case "white":
             return "dark:sm:text-white-50";
@@ -12219,13 +12028,12 @@ export const darkSmText50 = (color) => {
             return "dark:sm:text-coolGray-50";
         case "blueGray":
             return "dark:sm:text-blueGray-50";
-
-    }
-};
-
-export const darkSmText100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmTextColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:text-black-100";
         case "white":
             return "dark:sm:text-white-100";
@@ -12283,13 +12091,12 @@ export const darkSmText100 = (color) => {
             return "dark:sm:text-coolGray-100";
         case "blueGray":
             return "dark:sm:text-blueGray-100";
-
-    }
-};
-
-export const darkSmText200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmTextColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:text-black-200";
         case "white":
             return "dark:sm:text-white-200";
@@ -12347,13 +12154,12 @@ export const darkSmText200 = (color) => {
             return "dark:sm:text-coolGray-200";
         case "blueGray":
             return "dark:sm:text-blueGray-200";
-
-    }
-};
-
-export const darkSmText300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmTextColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:text-black-300";
         case "white":
             return "dark:sm:text-white-300";
@@ -12411,13 +12217,12 @@ export const darkSmText300 = (color) => {
             return "dark:sm:text-coolGray-300";
         case "blueGray":
             return "dark:sm:text-blueGray-300";
-
-    }
-};
-
-export const darkSmText400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmTextColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:text-black-400";
         case "white":
             return "dark:sm:text-white-400";
@@ -12475,13 +12280,12 @@ export const darkSmText400 = (color) => {
             return "dark:sm:text-coolGray-400";
         case "blueGray":
             return "dark:sm:text-blueGray-400";
-
-    }
-};
-
-export const darkSmText500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmTextColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:text-black-500";
         case "white":
             return "dark:sm:text-white-500";
@@ -12539,13 +12343,12 @@ export const darkSmText500 = (color) => {
             return "dark:sm:text-coolGray-500";
         case "blueGray":
             return "dark:sm:text-blueGray-500";
-
-    }
-};
-
-export const darkSmText600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmTextColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:text-black-600";
         case "white":
             return "dark:sm:text-white-600";
@@ -12603,13 +12406,12 @@ export const darkSmText600 = (color) => {
             return "dark:sm:text-coolGray-600";
         case "blueGray":
             return "dark:sm:text-blueGray-600";
-
-    }
-};
-
-export const darkSmText700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmTextColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:text-black-700";
         case "white":
             return "dark:sm:text-white-700";
@@ -12667,13 +12469,12 @@ export const darkSmText700 = (color) => {
             return "dark:sm:text-coolGray-700";
         case "blueGray":
             return "dark:sm:text-blueGray-700";
-
-    }
-};
-
-export const darkSmText800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmTextColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:text-black-800";
         case "white":
             return "dark:sm:text-white-800";
@@ -12731,13 +12532,12 @@ export const darkSmText800 = (color) => {
             return "dark:sm:text-coolGray-800";
         case "blueGray":
             return "dark:sm:text-blueGray-800";
-
-    }
-};
-
-export const darkSmText900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmTextColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:text-black-900";
         case "white":
             return "dark:sm:text-white-900";
@@ -12795,13 +12595,12 @@ export const darkSmText900 = (color) => {
             return "dark:sm:text-coolGray-900";
         case "blueGray":
             return "dark:sm:text-blueGray-900";
-
-    }
-};
-
-export const darkSmBorder50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBorderColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:border-black-50";
         case "white":
             return "dark:sm:border-white-50";
@@ -12859,13 +12658,12 @@ export const darkSmBorder50 = (color) => {
             return "dark:sm:border-coolGray-50";
         case "blueGray":
             return "dark:sm:border-blueGray-50";
-
-    }
-};
-
-export const darkSmBorder100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBorderColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:border-black-100";
         case "white":
             return "dark:sm:border-white-100";
@@ -12923,13 +12721,12 @@ export const darkSmBorder100 = (color) => {
             return "dark:sm:border-coolGray-100";
         case "blueGray":
             return "dark:sm:border-blueGray-100";
-
-    }
-};
-
-export const darkSmBorder200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBorderColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:border-black-200";
         case "white":
             return "dark:sm:border-white-200";
@@ -12987,13 +12784,12 @@ export const darkSmBorder200 = (color) => {
             return "dark:sm:border-coolGray-200";
         case "blueGray":
             return "dark:sm:border-blueGray-200";
-
-    }
-};
-
-export const darkSmBorder300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBorderColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:border-black-300";
         case "white":
             return "dark:sm:border-white-300";
@@ -13051,13 +12847,12 @@ export const darkSmBorder300 = (color) => {
             return "dark:sm:border-coolGray-300";
         case "blueGray":
             return "dark:sm:border-blueGray-300";
-
-    }
-};
-
-export const darkSmBorder400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBorderColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:border-black-400";
         case "white":
             return "dark:sm:border-white-400";
@@ -13115,13 +12910,12 @@ export const darkSmBorder400 = (color) => {
             return "dark:sm:border-coolGray-400";
         case "blueGray":
             return "dark:sm:border-blueGray-400";
-
-    }
-};
-
-export const darkSmBorder500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBorderColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:border-black-500";
         case "white":
             return "dark:sm:border-white-500";
@@ -13179,13 +12973,12 @@ export const darkSmBorder500 = (color) => {
             return "dark:sm:border-coolGray-500";
         case "blueGray":
             return "dark:sm:border-blueGray-500";
-
-    }
-};
-
-export const darkSmBorder600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBorderColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:border-black-600";
         case "white":
             return "dark:sm:border-white-600";
@@ -13243,13 +13036,12 @@ export const darkSmBorder600 = (color) => {
             return "dark:sm:border-coolGray-600";
         case "blueGray":
             return "dark:sm:border-blueGray-600";
-
-    }
-};
-
-export const darkSmBorder700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBorderColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:border-black-700";
         case "white":
             return "dark:sm:border-white-700";
@@ -13307,13 +13099,12 @@ export const darkSmBorder700 = (color) => {
             return "dark:sm:border-coolGray-700";
         case "blueGray":
             return "dark:sm:border-blueGray-700";
-
-    }
-};
-
-export const darkSmBorder800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBorderColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:border-black-800";
         case "white":
             return "dark:sm:border-white-800";
@@ -13371,13 +13162,12 @@ export const darkSmBorder800 = (color) => {
             return "dark:sm:border-coolGray-800";
         case "blueGray":
             return "dark:sm:border-blueGray-800";
-
-    }
-};
-
-export const darkSmBorder900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkSmBorderColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:sm:border-black-900";
         case "white":
             return "dark:sm:border-white-900";
@@ -13435,13 +13225,12 @@ export const darkSmBorder900 = (color) => {
             return "dark:sm:border-coolGray-900";
         case "blueGray":
             return "dark:sm:border-blueGray-900";
-
-    }
-};
-
-export const darkLgBg50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBgColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:bg-black-50";
         case "white":
             return "dark:lg:bg-white-50";
@@ -13499,13 +13288,12 @@ export const darkLgBg50 = (color) => {
             return "dark:lg:bg-coolGray-50";
         case "blueGray":
             return "dark:lg:bg-blueGray-50";
-
-    }
-};
-
-export const darkLgBg100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBgColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:bg-black-100";
         case "white":
             return "dark:lg:bg-white-100";
@@ -13563,13 +13351,12 @@ export const darkLgBg100 = (color) => {
             return "dark:lg:bg-coolGray-100";
         case "blueGray":
             return "dark:lg:bg-blueGray-100";
-
-    }
-};
-
-export const darkLgBg200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBgColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:bg-black-200";
         case "white":
             return "dark:lg:bg-white-200";
@@ -13627,13 +13414,12 @@ export const darkLgBg200 = (color) => {
             return "dark:lg:bg-coolGray-200";
         case "blueGray":
             return "dark:lg:bg-blueGray-200";
-
-    }
-};
-
-export const darkLgBg300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBgColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:bg-black-300";
         case "white":
             return "dark:lg:bg-white-300";
@@ -13691,13 +13477,12 @@ export const darkLgBg300 = (color) => {
             return "dark:lg:bg-coolGray-300";
         case "blueGray":
             return "dark:lg:bg-blueGray-300";
-
-    }
-};
-
-export const darkLgBg400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBgColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:bg-black-400";
         case "white":
             return "dark:lg:bg-white-400";
@@ -13755,13 +13540,12 @@ export const darkLgBg400 = (color) => {
             return "dark:lg:bg-coolGray-400";
         case "blueGray":
             return "dark:lg:bg-blueGray-400";
-
-    }
-};
-
-export const darkLgBg500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBgColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:bg-black-500";
         case "white":
             return "dark:lg:bg-white-500";
@@ -13819,13 +13603,12 @@ export const darkLgBg500 = (color) => {
             return "dark:lg:bg-coolGray-500";
         case "blueGray":
             return "dark:lg:bg-blueGray-500";
-
-    }
-};
-
-export const darkLgBg600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBgColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:bg-black-600";
         case "white":
             return "dark:lg:bg-white-600";
@@ -13883,13 +13666,12 @@ export const darkLgBg600 = (color) => {
             return "dark:lg:bg-coolGray-600";
         case "blueGray":
             return "dark:lg:bg-blueGray-600";
-
-    }
-};
-
-export const darkLgBg700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBgColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:bg-black-700";
         case "white":
             return "dark:lg:bg-white-700";
@@ -13947,13 +13729,12 @@ export const darkLgBg700 = (color) => {
             return "dark:lg:bg-coolGray-700";
         case "blueGray":
             return "dark:lg:bg-blueGray-700";
-
-    }
-};
-
-export const darkLgBg800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBgColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:bg-black-800";
         case "white":
             return "dark:lg:bg-white-800";
@@ -14011,13 +13792,12 @@ export const darkLgBg800 = (color) => {
             return "dark:lg:bg-coolGray-800";
         case "blueGray":
             return "dark:lg:bg-blueGray-800";
-
-    }
-};
-
-export const darkLgBg900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBgColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:bg-black-900";
         case "white":
             return "dark:lg:bg-white-900";
@@ -14075,13 +13855,12 @@ export const darkLgBg900 = (color) => {
             return "dark:lg:bg-coolGray-900";
         case "blueGray":
             return "dark:lg:bg-blueGray-900";
-
-    }
-};
-
-export const darkLgText50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgTextColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:text-black-50";
         case "white":
             return "dark:lg:text-white-50";
@@ -14139,13 +13918,12 @@ export const darkLgText50 = (color) => {
             return "dark:lg:text-coolGray-50";
         case "blueGray":
             return "dark:lg:text-blueGray-50";
-
-    }
-};
-
-export const darkLgText100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgTextColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:text-black-100";
         case "white":
             return "dark:lg:text-white-100";
@@ -14203,13 +13981,12 @@ export const darkLgText100 = (color) => {
             return "dark:lg:text-coolGray-100";
         case "blueGray":
             return "dark:lg:text-blueGray-100";
-
-    }
-};
-
-export const darkLgText200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgTextColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:text-black-200";
         case "white":
             return "dark:lg:text-white-200";
@@ -14267,13 +14044,12 @@ export const darkLgText200 = (color) => {
             return "dark:lg:text-coolGray-200";
         case "blueGray":
             return "dark:lg:text-blueGray-200";
-
-    }
-};
-
-export const darkLgText300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgTextColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:text-black-300";
         case "white":
             return "dark:lg:text-white-300";
@@ -14331,13 +14107,12 @@ export const darkLgText300 = (color) => {
             return "dark:lg:text-coolGray-300";
         case "blueGray":
             return "dark:lg:text-blueGray-300";
-
-    }
-};
-
-export const darkLgText400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgTextColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:text-black-400";
         case "white":
             return "dark:lg:text-white-400";
@@ -14395,13 +14170,12 @@ export const darkLgText400 = (color) => {
             return "dark:lg:text-coolGray-400";
         case "blueGray":
             return "dark:lg:text-blueGray-400";
-
-    }
-};
-
-export const darkLgText500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgTextColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:text-black-500";
         case "white":
             return "dark:lg:text-white-500";
@@ -14459,13 +14233,12 @@ export const darkLgText500 = (color) => {
             return "dark:lg:text-coolGray-500";
         case "blueGray":
             return "dark:lg:text-blueGray-500";
-
-    }
-};
-
-export const darkLgText600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgTextColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:text-black-600";
         case "white":
             return "dark:lg:text-white-600";
@@ -14523,13 +14296,12 @@ export const darkLgText600 = (color) => {
             return "dark:lg:text-coolGray-600";
         case "blueGray":
             return "dark:lg:text-blueGray-600";
-
-    }
-};
-
-export const darkLgText700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgTextColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:text-black-700";
         case "white":
             return "dark:lg:text-white-700";
@@ -14587,13 +14359,12 @@ export const darkLgText700 = (color) => {
             return "dark:lg:text-coolGray-700";
         case "blueGray":
             return "dark:lg:text-blueGray-700";
-
-    }
-};
-
-export const darkLgText800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgTextColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:text-black-800";
         case "white":
             return "dark:lg:text-white-800";
@@ -14651,13 +14422,12 @@ export const darkLgText800 = (color) => {
             return "dark:lg:text-coolGray-800";
         case "blueGray":
             return "dark:lg:text-blueGray-800";
-
-    }
-};
-
-export const darkLgText900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgTextColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:text-black-900";
         case "white":
             return "dark:lg:text-white-900";
@@ -14715,13 +14485,12 @@ export const darkLgText900 = (color) => {
             return "dark:lg:text-coolGray-900";
         case "blueGray":
             return "dark:lg:text-blueGray-900";
-
-    }
-};
-
-export const darkLgBorder50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBorderColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:border-black-50";
         case "white":
             return "dark:lg:border-white-50";
@@ -14779,13 +14548,12 @@ export const darkLgBorder50 = (color) => {
             return "dark:lg:border-coolGray-50";
         case "blueGray":
             return "dark:lg:border-blueGray-50";
-
-    }
-};
-
-export const darkLgBorder100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBorderColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:border-black-100";
         case "white":
             return "dark:lg:border-white-100";
@@ -14843,13 +14611,12 @@ export const darkLgBorder100 = (color) => {
             return "dark:lg:border-coolGray-100";
         case "blueGray":
             return "dark:lg:border-blueGray-100";
-
-    }
-};
-
-export const darkLgBorder200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBorderColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:border-black-200";
         case "white":
             return "dark:lg:border-white-200";
@@ -14907,13 +14674,12 @@ export const darkLgBorder200 = (color) => {
             return "dark:lg:border-coolGray-200";
         case "blueGray":
             return "dark:lg:border-blueGray-200";
-
-    }
-};
-
-export const darkLgBorder300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBorderColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:border-black-300";
         case "white":
             return "dark:lg:border-white-300";
@@ -14971,13 +14737,12 @@ export const darkLgBorder300 = (color) => {
             return "dark:lg:border-coolGray-300";
         case "blueGray":
             return "dark:lg:border-blueGray-300";
-
-    }
-};
-
-export const darkLgBorder400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBorderColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:border-black-400";
         case "white":
             return "dark:lg:border-white-400";
@@ -15035,13 +14800,12 @@ export const darkLgBorder400 = (color) => {
             return "dark:lg:border-coolGray-400";
         case "blueGray":
             return "dark:lg:border-blueGray-400";
-
-    }
-};
-
-export const darkLgBorder500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBorderColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:border-black-500";
         case "white":
             return "dark:lg:border-white-500";
@@ -15099,13 +14863,12 @@ export const darkLgBorder500 = (color) => {
             return "dark:lg:border-coolGray-500";
         case "blueGray":
             return "dark:lg:border-blueGray-500";
-
-    }
-};
-
-export const darkLgBorder600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBorderColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:border-black-600";
         case "white":
             return "dark:lg:border-white-600";
@@ -15163,13 +14926,12 @@ export const darkLgBorder600 = (color) => {
             return "dark:lg:border-coolGray-600";
         case "blueGray":
             return "dark:lg:border-blueGray-600";
-
-    }
-};
-
-export const darkLgBorder700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBorderColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:border-black-700";
         case "white":
             return "dark:lg:border-white-700";
@@ -15227,13 +14989,12 @@ export const darkLgBorder700 = (color) => {
             return "dark:lg:border-coolGray-700";
         case "blueGray":
             return "dark:lg:border-blueGray-700";
-
-    }
-};
-
-export const darkLgBorder800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBorderColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:border-black-800";
         case "white":
             return "dark:lg:border-white-800";
@@ -15291,13 +15052,12 @@ export const darkLgBorder800 = (color) => {
             return "dark:lg:border-coolGray-800";
         case "blueGray":
             return "dark:lg:border-blueGray-800";
-
-    }
-};
-
-export const darkLgBorder900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkLgBorderColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:lg:border-black-900";
         case "white":
             return "dark:lg:border-white-900";
@@ -15355,13 +15115,12 @@ export const darkLgBorder900 = (color) => {
             return "dark:lg:border-coolGray-900";
         case "blueGray":
             return "dark:lg:border-blueGray-900";
-
-    }
-};
-
-export const darkMdBg50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBgColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:bg-black-50";
         case "white":
             return "dark:md:bg-white-50";
@@ -15419,13 +15178,12 @@ export const darkMdBg50 = (color) => {
             return "dark:md:bg-coolGray-50";
         case "blueGray":
             return "dark:md:bg-blueGray-50";
-
-    }
-};
-
-export const darkMdBg100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBgColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:bg-black-100";
         case "white":
             return "dark:md:bg-white-100";
@@ -15483,13 +15241,12 @@ export const darkMdBg100 = (color) => {
             return "dark:md:bg-coolGray-100";
         case "blueGray":
             return "dark:md:bg-blueGray-100";
-
-    }
-};
-
-export const darkMdBg200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBgColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:bg-black-200";
         case "white":
             return "dark:md:bg-white-200";
@@ -15547,13 +15304,12 @@ export const darkMdBg200 = (color) => {
             return "dark:md:bg-coolGray-200";
         case "blueGray":
             return "dark:md:bg-blueGray-200";
-
-    }
-};
-
-export const darkMdBg300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBgColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:bg-black-300";
         case "white":
             return "dark:md:bg-white-300";
@@ -15611,13 +15367,12 @@ export const darkMdBg300 = (color) => {
             return "dark:md:bg-coolGray-300";
         case "blueGray":
             return "dark:md:bg-blueGray-300";
-
-    }
-};
-
-export const darkMdBg400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBgColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:bg-black-400";
         case "white":
             return "dark:md:bg-white-400";
@@ -15675,13 +15430,12 @@ export const darkMdBg400 = (color) => {
             return "dark:md:bg-coolGray-400";
         case "blueGray":
             return "dark:md:bg-blueGray-400";
-
-    }
-};
-
-export const darkMdBg500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBgColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:bg-black-500";
         case "white":
             return "dark:md:bg-white-500";
@@ -15739,13 +15493,12 @@ export const darkMdBg500 = (color) => {
             return "dark:md:bg-coolGray-500";
         case "blueGray":
             return "dark:md:bg-blueGray-500";
-
-    }
-};
-
-export const darkMdBg600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBgColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:bg-black-600";
         case "white":
             return "dark:md:bg-white-600";
@@ -15803,13 +15556,12 @@ export const darkMdBg600 = (color) => {
             return "dark:md:bg-coolGray-600";
         case "blueGray":
             return "dark:md:bg-blueGray-600";
-
-    }
-};
-
-export const darkMdBg700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBgColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:bg-black-700";
         case "white":
             return "dark:md:bg-white-700";
@@ -15867,13 +15619,12 @@ export const darkMdBg700 = (color) => {
             return "dark:md:bg-coolGray-700";
         case "blueGray":
             return "dark:md:bg-blueGray-700";
-
-    }
-};
-
-export const darkMdBg800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBgColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:bg-black-800";
         case "white":
             return "dark:md:bg-white-800";
@@ -15931,13 +15682,12 @@ export const darkMdBg800 = (color) => {
             return "dark:md:bg-coolGray-800";
         case "blueGray":
             return "dark:md:bg-blueGray-800";
-
-    }
-};
-
-export const darkMdBg900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBgColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:bg-black-900";
         case "white":
             return "dark:md:bg-white-900";
@@ -15995,13 +15745,12 @@ export const darkMdBg900 = (color) => {
             return "dark:md:bg-coolGray-900";
         case "blueGray":
             return "dark:md:bg-blueGray-900";
-
-    }
-};
-
-export const darkMdText50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdTextColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:text-black-50";
         case "white":
             return "dark:md:text-white-50";
@@ -16059,13 +15808,12 @@ export const darkMdText50 = (color) => {
             return "dark:md:text-coolGray-50";
         case "blueGray":
             return "dark:md:text-blueGray-50";
-
-    }
-};
-
-export const darkMdText100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdTextColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:text-black-100";
         case "white":
             return "dark:md:text-white-100";
@@ -16123,13 +15871,12 @@ export const darkMdText100 = (color) => {
             return "dark:md:text-coolGray-100";
         case "blueGray":
             return "dark:md:text-blueGray-100";
-
-    }
-};
-
-export const darkMdText200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdTextColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:text-black-200";
         case "white":
             return "dark:md:text-white-200";
@@ -16187,13 +15934,12 @@ export const darkMdText200 = (color) => {
             return "dark:md:text-coolGray-200";
         case "blueGray":
             return "dark:md:text-blueGray-200";
-
-    }
-};
-
-export const darkMdText300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdTextColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:text-black-300";
         case "white":
             return "dark:md:text-white-300";
@@ -16251,13 +15997,12 @@ export const darkMdText300 = (color) => {
             return "dark:md:text-coolGray-300";
         case "blueGray":
             return "dark:md:text-blueGray-300";
-
-    }
-};
-
-export const darkMdText400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdTextColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:text-black-400";
         case "white":
             return "dark:md:text-white-400";
@@ -16315,13 +16060,12 @@ export const darkMdText400 = (color) => {
             return "dark:md:text-coolGray-400";
         case "blueGray":
             return "dark:md:text-blueGray-400";
-
-    }
-};
-
-export const darkMdText500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdTextColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:text-black-500";
         case "white":
             return "dark:md:text-white-500";
@@ -16379,13 +16123,12 @@ export const darkMdText500 = (color) => {
             return "dark:md:text-coolGray-500";
         case "blueGray":
             return "dark:md:text-blueGray-500";
-
-    }
-};
-
-export const darkMdText600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdTextColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:text-black-600";
         case "white":
             return "dark:md:text-white-600";
@@ -16443,13 +16186,12 @@ export const darkMdText600 = (color) => {
             return "dark:md:text-coolGray-600";
         case "blueGray":
             return "dark:md:text-blueGray-600";
-
-    }
-};
-
-export const darkMdText700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdTextColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:text-black-700";
         case "white":
             return "dark:md:text-white-700";
@@ -16507,13 +16249,12 @@ export const darkMdText700 = (color) => {
             return "dark:md:text-coolGray-700";
         case "blueGray":
             return "dark:md:text-blueGray-700";
-
-    }
-};
-
-export const darkMdText800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdTextColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:text-black-800";
         case "white":
             return "dark:md:text-white-800";
@@ -16571,13 +16312,12 @@ export const darkMdText800 = (color) => {
             return "dark:md:text-coolGray-800";
         case "blueGray":
             return "dark:md:text-blueGray-800";
-
-    }
-};
-
-export const darkMdText900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdTextColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:text-black-900";
         case "white":
             return "dark:md:text-white-900";
@@ -16635,13 +16375,12 @@ export const darkMdText900 = (color) => {
             return "dark:md:text-coolGray-900";
         case "blueGray":
             return "dark:md:text-blueGray-900";
-
-    }
-};
-
-export const darkMdBorder50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBorderColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:border-black-50";
         case "white":
             return "dark:md:border-white-50";
@@ -16699,13 +16438,12 @@ export const darkMdBorder50 = (color) => {
             return "dark:md:border-coolGray-50";
         case "blueGray":
             return "dark:md:border-blueGray-50";
-
-    }
-};
-
-export const darkMdBorder100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBorderColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:border-black-100";
         case "white":
             return "dark:md:border-white-100";
@@ -16763,13 +16501,12 @@ export const darkMdBorder100 = (color) => {
             return "dark:md:border-coolGray-100";
         case "blueGray":
             return "dark:md:border-blueGray-100";
-
-    }
-};
-
-export const darkMdBorder200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBorderColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:border-black-200";
         case "white":
             return "dark:md:border-white-200";
@@ -16827,13 +16564,12 @@ export const darkMdBorder200 = (color) => {
             return "dark:md:border-coolGray-200";
         case "blueGray":
             return "dark:md:border-blueGray-200";
-
-    }
-};
-
-export const darkMdBorder300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBorderColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:border-black-300";
         case "white":
             return "dark:md:border-white-300";
@@ -16891,13 +16627,12 @@ export const darkMdBorder300 = (color) => {
             return "dark:md:border-coolGray-300";
         case "blueGray":
             return "dark:md:border-blueGray-300";
-
-    }
-};
-
-export const darkMdBorder400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBorderColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:border-black-400";
         case "white":
             return "dark:md:border-white-400";
@@ -16955,13 +16690,12 @@ export const darkMdBorder400 = (color) => {
             return "dark:md:border-coolGray-400";
         case "blueGray":
             return "dark:md:border-blueGray-400";
-
-    }
-};
-
-export const darkMdBorder500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBorderColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:border-black-500";
         case "white":
             return "dark:md:border-white-500";
@@ -17019,13 +16753,12 @@ export const darkMdBorder500 = (color) => {
             return "dark:md:border-coolGray-500";
         case "blueGray":
             return "dark:md:border-blueGray-500";
-
-    }
-};
-
-export const darkMdBorder600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBorderColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:border-black-600";
         case "white":
             return "dark:md:border-white-600";
@@ -17083,13 +16816,12 @@ export const darkMdBorder600 = (color) => {
             return "dark:md:border-coolGray-600";
         case "blueGray":
             return "dark:md:border-blueGray-600";
-
-    }
-};
-
-export const darkMdBorder700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBorderColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:border-black-700";
         case "white":
             return "dark:md:border-white-700";
@@ -17147,13 +16879,12 @@ export const darkMdBorder700 = (color) => {
             return "dark:md:border-coolGray-700";
         case "blueGray":
             return "dark:md:border-blueGray-700";
-
-    }
-};
-
-export const darkMdBorder800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBorderColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:border-black-800";
         case "white":
             return "dark:md:border-white-800";
@@ -17211,13 +16942,12 @@ export const darkMdBorder800 = (color) => {
             return "dark:md:border-coolGray-800";
         case "blueGray":
             return "dark:md:border-blueGray-800";
-
-    }
-};
-
-export const darkMdBorder900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkMdBorderColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:md:border-black-900";
         case "white":
             return "dark:md:border-white-900";
@@ -17275,13 +17005,12 @@ export const darkMdBorder900 = (color) => {
             return "dark:md:border-coolGray-900";
         case "blueGray":
             return "dark:md:border-blueGray-900";
-
-    }
-};
-
-export const darkXlgBg50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBgColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:bg-black-50";
         case "white":
             return "dark:xlg:bg-white-50";
@@ -17339,13 +17068,12 @@ export const darkXlgBg50 = (color) => {
             return "dark:xlg:bg-coolGray-50";
         case "blueGray":
             return "dark:xlg:bg-blueGray-50";
-
-    }
-};
-
-export const darkXlgBg100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBgColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:bg-black-100";
         case "white":
             return "dark:xlg:bg-white-100";
@@ -17403,13 +17131,12 @@ export const darkXlgBg100 = (color) => {
             return "dark:xlg:bg-coolGray-100";
         case "blueGray":
             return "dark:xlg:bg-blueGray-100";
-
-    }
-};
-
-export const darkXlgBg200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBgColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:bg-black-200";
         case "white":
             return "dark:xlg:bg-white-200";
@@ -17467,13 +17194,12 @@ export const darkXlgBg200 = (color) => {
             return "dark:xlg:bg-coolGray-200";
         case "blueGray":
             return "dark:xlg:bg-blueGray-200";
-
-    }
-};
-
-export const darkXlgBg300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBgColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:bg-black-300";
         case "white":
             return "dark:xlg:bg-white-300";
@@ -17531,13 +17257,12 @@ export const darkXlgBg300 = (color) => {
             return "dark:xlg:bg-coolGray-300";
         case "blueGray":
             return "dark:xlg:bg-blueGray-300";
-
-    }
-};
-
-export const darkXlgBg400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBgColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:bg-black-400";
         case "white":
             return "dark:xlg:bg-white-400";
@@ -17595,13 +17320,12 @@ export const darkXlgBg400 = (color) => {
             return "dark:xlg:bg-coolGray-400";
         case "blueGray":
             return "dark:xlg:bg-blueGray-400";
-
-    }
-};
-
-export const darkXlgBg500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBgColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:bg-black-500";
         case "white":
             return "dark:xlg:bg-white-500";
@@ -17659,13 +17383,12 @@ export const darkXlgBg500 = (color) => {
             return "dark:xlg:bg-coolGray-500";
         case "blueGray":
             return "dark:xlg:bg-blueGray-500";
-
-    }
-};
-
-export const darkXlgBg600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBgColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:bg-black-600";
         case "white":
             return "dark:xlg:bg-white-600";
@@ -17723,13 +17446,12 @@ export const darkXlgBg600 = (color) => {
             return "dark:xlg:bg-coolGray-600";
         case "blueGray":
             return "dark:xlg:bg-blueGray-600";
-
-    }
-};
-
-export const darkXlgBg700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBgColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:bg-black-700";
         case "white":
             return "dark:xlg:bg-white-700";
@@ -17787,13 +17509,12 @@ export const darkXlgBg700 = (color) => {
             return "dark:xlg:bg-coolGray-700";
         case "blueGray":
             return "dark:xlg:bg-blueGray-700";
-
-    }
-};
-
-export const darkXlgBg800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBgColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:bg-black-800";
         case "white":
             return "dark:xlg:bg-white-800";
@@ -17851,13 +17572,12 @@ export const darkXlgBg800 = (color) => {
             return "dark:xlg:bg-coolGray-800";
         case "blueGray":
             return "dark:xlg:bg-blueGray-800";
-
-    }
-};
-
-export const darkXlgBg900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBgColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:bg-black-900";
         case "white":
             return "dark:xlg:bg-white-900";
@@ -17915,13 +17635,12 @@ export const darkXlgBg900 = (color) => {
             return "dark:xlg:bg-coolGray-900";
         case "blueGray":
             return "dark:xlg:bg-blueGray-900";
-
-    }
-};
-
-export const darkXlgText50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgTextColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:text-black-50";
         case "white":
             return "dark:xlg:text-white-50";
@@ -17979,13 +17698,12 @@ export const darkXlgText50 = (color) => {
             return "dark:xlg:text-coolGray-50";
         case "blueGray":
             return "dark:xlg:text-blueGray-50";
-
-    }
-};
-
-export const darkXlgText100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgTextColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:text-black-100";
         case "white":
             return "dark:xlg:text-white-100";
@@ -18043,13 +17761,12 @@ export const darkXlgText100 = (color) => {
             return "dark:xlg:text-coolGray-100";
         case "blueGray":
             return "dark:xlg:text-blueGray-100";
-
-    }
-};
-
-export const darkXlgText200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgTextColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:text-black-200";
         case "white":
             return "dark:xlg:text-white-200";
@@ -18107,13 +17824,12 @@ export const darkXlgText200 = (color) => {
             return "dark:xlg:text-coolGray-200";
         case "blueGray":
             return "dark:xlg:text-blueGray-200";
-
-    }
-};
-
-export const darkXlgText300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgTextColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:text-black-300";
         case "white":
             return "dark:xlg:text-white-300";
@@ -18171,13 +17887,12 @@ export const darkXlgText300 = (color) => {
             return "dark:xlg:text-coolGray-300";
         case "blueGray":
             return "dark:xlg:text-blueGray-300";
-
-    }
-};
-
-export const darkXlgText400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgTextColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:text-black-400";
         case "white":
             return "dark:xlg:text-white-400";
@@ -18235,13 +17950,12 @@ export const darkXlgText400 = (color) => {
             return "dark:xlg:text-coolGray-400";
         case "blueGray":
             return "dark:xlg:text-blueGray-400";
-
-    }
-};
-
-export const darkXlgText500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgTextColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:text-black-500";
         case "white":
             return "dark:xlg:text-white-500";
@@ -18299,13 +18013,12 @@ export const darkXlgText500 = (color) => {
             return "dark:xlg:text-coolGray-500";
         case "blueGray":
             return "dark:xlg:text-blueGray-500";
-
-    }
-};
-
-export const darkXlgText600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgTextColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:text-black-600";
         case "white":
             return "dark:xlg:text-white-600";
@@ -18363,13 +18076,12 @@ export const darkXlgText600 = (color) => {
             return "dark:xlg:text-coolGray-600";
         case "blueGray":
             return "dark:xlg:text-blueGray-600";
-
-    }
-};
-
-export const darkXlgText700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgTextColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:text-black-700";
         case "white":
             return "dark:xlg:text-white-700";
@@ -18427,13 +18139,12 @@ export const darkXlgText700 = (color) => {
             return "dark:xlg:text-coolGray-700";
         case "blueGray":
             return "dark:xlg:text-blueGray-700";
-
-    }
-};
-
-export const darkXlgText800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgTextColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:text-black-800";
         case "white":
             return "dark:xlg:text-white-800";
@@ -18491,13 +18202,12 @@ export const darkXlgText800 = (color) => {
             return "dark:xlg:text-coolGray-800";
         case "blueGray":
             return "dark:xlg:text-blueGray-800";
-
-    }
-};
-
-export const darkXlgText900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgTextColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:text-black-900";
         case "white":
             return "dark:xlg:text-white-900";
@@ -18555,13 +18265,12 @@ export const darkXlgText900 = (color) => {
             return "dark:xlg:text-coolGray-900";
         case "blueGray":
             return "dark:xlg:text-blueGray-900";
-
-    }
-};
-
-export const darkXlgBorder50 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBorderColor50 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:border-black-50";
         case "white":
             return "dark:xlg:border-white-50";
@@ -18619,13 +18328,12 @@ export const darkXlgBorder50 = (color) => {
             return "dark:xlg:border-coolGray-50";
         case "blueGray":
             return "dark:xlg:border-blueGray-50";
-
-    }
-};
-
-export const darkXlgBorder100 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBorderColor100 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:border-black-100";
         case "white":
             return "dark:xlg:border-white-100";
@@ -18683,13 +18391,12 @@ export const darkXlgBorder100 = (color) => {
             return "dark:xlg:border-coolGray-100";
         case "blueGray":
             return "dark:xlg:border-blueGray-100";
-
-    }
-};
-
-export const darkXlgBorder200 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBorderColor200 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:border-black-200";
         case "white":
             return "dark:xlg:border-white-200";
@@ -18747,13 +18454,12 @@ export const darkXlgBorder200 = (color) => {
             return "dark:xlg:border-coolGray-200";
         case "blueGray":
             return "dark:xlg:border-blueGray-200";
-
-    }
-};
-
-export const darkXlgBorder300 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBorderColor300 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:border-black-300";
         case "white":
             return "dark:xlg:border-white-300";
@@ -18811,13 +18517,12 @@ export const darkXlgBorder300 = (color) => {
             return "dark:xlg:border-coolGray-300";
         case "blueGray":
             return "dark:xlg:border-blueGray-300";
-
-    }
-};
-
-export const darkXlgBorder400 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBorderColor400 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:border-black-400";
         case "white":
             return "dark:xlg:border-white-400";
@@ -18875,13 +18580,12 @@ export const darkXlgBorder400 = (color) => {
             return "dark:xlg:border-coolGray-400";
         case "blueGray":
             return "dark:xlg:border-blueGray-400";
-
-    }
-};
-
-export const darkXlgBorder500 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBorderColor500 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:border-black-500";
         case "white":
             return "dark:xlg:border-white-500";
@@ -18939,13 +18643,12 @@ export const darkXlgBorder500 = (color) => {
             return "dark:xlg:border-coolGray-500";
         case "blueGray":
             return "dark:xlg:border-blueGray-500";
-
-    }
-};
-
-export const darkXlgBorder600 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBorderColor600 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:border-black-600";
         case "white":
             return "dark:xlg:border-white-600";
@@ -19003,13 +18706,12 @@ export const darkXlgBorder600 = (color) => {
             return "dark:xlg:border-coolGray-600";
         case "blueGray":
             return "dark:xlg:border-blueGray-600";
-
-    }
-};
-
-export const darkXlgBorder700 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBorderColor700 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:border-black-700";
         case "white":
             return "dark:xlg:border-white-700";
@@ -19067,13 +18769,12 @@ export const darkXlgBorder700 = (color) => {
             return "dark:xlg:border-coolGray-700";
         case "blueGray":
             return "dark:xlg:border-blueGray-700";
-
-    }
-};
-
-export const darkXlgBorder800 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBorderColor800 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:border-black-800";
         case "white":
             return "dark:xlg:border-white-800";
@@ -19131,13 +18832,12 @@ export const darkXlgBorder800 = (color) => {
             return "dark:xlg:border-coolGray-800";
         case "blueGray":
             return "dark:xlg:border-blueGray-800";
-
-    }
-};
-
-export const darkXlgBorder900 = (color) => {
-    switch (color) {
-        case "black":
+        
+            }  
+        };
+        export const darkXlgBorderColor900 = (color) => {
+            switch (color) {
+                case "black":
             return "dark:xlg:border-black-900";
         case "white":
             return "dark:xlg:border-white-900";
@@ -19195,6 +18895,7 @@ export const darkXlgBorder900 = (color) => {
             return "dark:xlg:border-coolGray-900";
         case "blueGray":
             return "dark:xlg:border-blueGray-900";
-
-    }
-};
+        
+            }  
+        };
+        
