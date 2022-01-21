@@ -1,0 +1,30 @@
+{
+  "name": "tailwind-dynamic-classes",
+  "version": "0.0.1",
+  "description": "Tailwind utility for using classes dynamically",
+  "files": [
+    "generated/*"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"haha - good one.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-d-webb/tailwind-dynamic-classes.git"
+  },
+  "keywords": [
+    "tailwind",
+    "classes"
+  ],
+  "author": "Matt Webb <matt@chesscentre.online>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matt-d-webb/tailwind-dynamic-classes/issues"
+  },
+  "homepage": "https://github.com/matt-d-webb/tailwind-dynamic-classes#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "tailwindcss": "^3.0.15"
+  }
+}
