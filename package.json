@@ -1,12 +1,13 @@
 {
   "name": "tailwind-dynamic-classes",
-  "version": "0.0.1",
-  "description": "Tailwind utility for using classes dynamically",
+  "version": "0.0.2",
+  "description": "Tailwind utility for using color classes dynamically",
   "files": [
     "generated/*"
   ],
-  "main": "index.js",
+  "main": "./generated/output.js",
   "scripts": {
+    "build": "node src/index.js",
     "test": "echo \"haha - good one.\" && exit 1"
   },
   "repository": {

@@ -8,14 +8,14 @@ Example usage:
 
 
 ```js
-import { bgColor500 } from @tailwind-dynamic-classes; 
+import { bgColor500 } from "tailwind-dynamic-classes"; 
 ```
 
 React component
 
 ```jsx
 
-function classNames(...classes) {
+const classNames = (...classes) => {
   return classes.filter(Boolean).join(" ");
 };
 
@@ -44,14 +44,32 @@ const Stripe = (color) => {
 You can also use these directly:
 
 ```jsx
-import { textColor900, mdTextColor700 } from @tailwind-dynamic-classes;
+import { textColor900, mdTextColor700 } from "tailwind-dynamic-classes";
 
-const red = textColor900.red; // "text-color-red-900"
-const blue = mdTextColor700.blue; // "md:text-color-blue-700"
+// "text-color-red-900"
+const red = textColor900.red;
+
+// "md:text-color-blue-700"
+const blue = mdTextColor700.blue; 
 
 ```
 
+Includes `theme` and `screen` classes:
+
+```jsx 
+import { darkBgColor200, mdBorderColor50 } from "tailwind-dynamic-classes";
+```
+
+```js
+// dark:bg-color-grey-200"
+console.log(darkBgColor200.grey);
+
+// md:bg-color-orange-200"
+console.log(darkBgColor200.orange);
+```
 
 
+**Limitations**
 
+This does not support custom color pallette names defined in your `tailwind.config.js` file.
 
