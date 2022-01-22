@@ -18,6 +18,9 @@
     "tailwind",
     "classes"
   ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "author": "Matt Webb <matt@chesscentre.online>",
   "license": "MIT",
   "bugs": {
