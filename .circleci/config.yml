@@ -13,11 +13,10 @@ jobs:
     # Add steps to the job
     # See: https://circleci.com/docs/2.0/configuration-reference/#steps
     steps:
-      - checkout
-      - run:
-          name: "tests"
-          command: npm install
-          command: npm test
+        - checkout
+        - run: echo "Running tests"
+        - run: npm install
+        - run: npm test
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
