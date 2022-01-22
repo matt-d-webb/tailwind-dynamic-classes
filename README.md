@@ -4,9 +4,9 @@
 
 A utility library for dynamically using tailwind css color classes
 
-## `text-${color}-500   ` ❌
+Have you tried this? `'text-${color}-500'` ❌
 
-## `textColor500[color]  ` ✅
+Well, now you can use this `${textColor500[color]}` ✅
 
 Example usage:
 
@@ -18,7 +18,6 @@ import { bgColor500 } from "tailwind-dynamic-classes";
 React component example:
 
 ```jsx
-
 const classNames = (...classes) => {
   return classes.filter(Boolean).join(" ");
 };
@@ -35,8 +34,8 @@ const Flag = ({ colors }) => {
              <Stripe {...{ color }}>
          })}
         </>
-    );
-};
+    )
+}
 
 const Stripe = (color) => {
     return (
@@ -72,8 +71,9 @@ console.log(darkBgColor200.grey);
 console.log(darkBgColor200.orange);
 ```
 
-
 **Limitations**
 
 This does not support custom color pallette names defined in your `tailwind.config.js` file.
+
+It takes the color pallette generation from the `tailwindcss/colors` package.
 

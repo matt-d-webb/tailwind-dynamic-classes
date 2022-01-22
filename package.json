@@ -1,6 +1,6 @@
 {
   "name": "tailwind-dynamic-classes",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Tailwind utility for using color classes dynamically",
   "files": [
     "generated/*"
