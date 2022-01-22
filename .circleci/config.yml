@@ -16,6 +16,7 @@ jobs:
       - checkout
       - run:
           name: "tests"
+          name: npm install
           command: npm test
 
 # Invoke jobs via workflows

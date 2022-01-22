@@ -1,5 +1,7 @@
 # Tailwind Dynamic Classes 
 
+[![CircleCI](https://circleci.com/gh/matt-d-webb/tailwind-dynamic-classes/tree/master.svg?style=svg)](https://circleci.com/gh/matt-d-webb/tailwind-dynamic-classes/tree/master)
+
 A utility library for dynamically using tailwind css color classes
 
 ## `text-${color}-500   ` ❌
