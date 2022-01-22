@@ -9,8 +9,3 @@ fs.writeFile('./generated/output.js', output, err => {
     }
     console.log('complete!');
 });
-
-
-
-
-

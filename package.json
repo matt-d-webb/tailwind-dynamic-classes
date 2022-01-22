@@ -1,6 +1,6 @@
 {
   "name": "tailwind-dynamic-classes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Tailwind utility for using color classes dynamically",
   "files": [
     "generated/*"
@@ -8,7 +8,7 @@
   "main": "./generated/output.js",
   "scripts": {
     "build": "node src/index.js",
-    "test": "echo \"haha - good one.\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,11 @@
   "homepage": "https://github.com/matt-d-webb/tailwind-dynamic-classes#readme",
   "dependencies": {},
   "devDependencies": {
-    "tailwindcss": "^3.0.15"
+    "@babel/preset-env": "^7.16.11",
+    "@types/jest": "^27.4.0",
+    "babel-jest": "^27.4.6",
+    "jest": "^27.4.7",
+    "tailwindcss": "^3.0.15",
+    "ts-jest": "^27.1.3"
   }
 }

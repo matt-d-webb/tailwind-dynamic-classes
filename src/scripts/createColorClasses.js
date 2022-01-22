@@ -52,5 +52,8 @@ exports.createFunctionClassMap = (overrides = {}) => {
 exports.createMethodExports = (methods) => {
     return methods.map(m => 
         `export const ${m.name} = { ${Object.entries(m.classes).map(([key, value]) => (`${key}: "${value}"`))}};\n`
-    ).join().replace(/,export/g, 'export').trim();
+    ).join()
+    // gnary way to remove the "," break between exports:
+    .replace(/,export/g, 'export')
+    .trim();
 };
