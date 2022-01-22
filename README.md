@@ -1,10 +1,11 @@
 # Tailwind Dynamic Classes 
 
 [![CircleCI](https://circleci.com/gh/matt-d-webb/tailwind-dynamic-classes/tree/master.svg?style=svg)](https://circleci.com/gh/matt-d-webb/tailwind-dynamic-classes/tree/master)
+[![Node.js Package](https://github.com/matt-d-webb/tailwind-dynamic-classes/actions/workflows/npm-publish.yml/badge.svg?event=registry_package)](https://github.com/matt-d-webb/tailwind-dynamic-classes/actions/workflows/npm-publish.yml)
 
 A utility library for dynamically using tailwind css color classes
 
-Have you tried this? `'text-${color}-500'` ❌
+Have you tried this? `text-${color}-500` ❌
 
 Well, now you can use this `${textColor500[color]}` ✅
 
