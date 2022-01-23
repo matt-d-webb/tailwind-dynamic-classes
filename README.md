@@ -5,15 +5,19 @@
 
 A utility library for dynamically using tailwind css color classes
 
-Have you tried this? `text-${color}-500` ❌
+Have you tried this? 
 
-Well, now you can use this `${textColor500[color]}` ✅
+`text-${color}-500` ❌
+
+Well, now you can use this ...
+
+`${textColor500[color]}` ✅
 
 Example usage:
 
 
 ```js
-import { bgColor500 } from "tailwind-dynamic-classes"; 
+import { bgColor500, ...manyMore } from "tailwind-dynamic-classes"; 
 ```
 
 React component example:
@@ -38,7 +42,7 @@ const Flag = ({ colors }) => {
     )
 }
 
-const Stripe = (color) => {
+const Stripe = ({ color }) => {
     return (
         <div className={classNames(bgColor500[color], "w-full h-40")}></div>
     )

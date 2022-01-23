@@ -16,10 +16,10 @@ const camalize = str => {
 /**
  * Generates an array of method names and associated classes for each tailwind colour
  * @param {object} overrides 
- * @returns string
+ * @returns array
  */
 exports.createFunctionClassMap = (overrides = {}) => {
-    const config = Object.assign({}, defaultConfig, overrides);
+    const config = { ...defaultConfig, ...overrides };
     const { themes, screens, attributes, shades } = config;
     const methods = [];
     for (const theme of themes) {
@@ -40,7 +40,7 @@ exports.createFunctionClassMap = (overrides = {}) => {
                 }
             }
         }
-    };
+    };   
     return methods;
 };
 
