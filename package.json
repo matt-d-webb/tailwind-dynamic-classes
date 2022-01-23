@@ -19,7 +19,7 @@
     "classes"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   },
   "author": "Matt Webb <matt@chesscentre.online>",
   "license": "MIT",
