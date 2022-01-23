@@ -1,6 +1,8 @@
-const defaultColors = require('tailwindcss/colors');
-const exclude = ["inherit", "current", "transparent"];
-const defaultConfig = {
+import defaultColors from "tailwindcss/colors";
+import { Config, Methods } from "./types";
+
+const exclude: Array<string> = ["inherit", "current", "transparent"];
+const defaultConfig: Config = {
     themes: ["", "dark"],
     screens: ["", "sm", "lg", "md", "xlg"],
     attributes: ["bg", "text", "border"],
@@ -8,17 +10,12 @@ const defaultConfig = {
 };
 const colors = Object.keys(defaultColors).filter(c => !exclude.includes(c));
 
-const camalize = str => {
-    str = str.replace(/[-_\s.]+(.)?/g, (_, c) => c ? c.toUpperCase() : '')
-    return str.substr(0, 1).toLowerCase() + str.substr(1);
-};
+function camalize(str: string): string {
+    str = str.replace(/[-_\s.]+(.)?/g, (_, c) => c ? c.toUpperCase() : '');
+    return str.substring(0, 1).toLowerCase() + str.substring(1);
+}
 
-/**
- * Generates an array of method names and associated classes for each tailwind colour
- * @param {object} overrides 
- * @returns array
- */
-exports.createFunctionClassMap = (overrides = {}) => {
+export const createFunctionClassMap = (overrides = {}): Array<Methods> => {
     const config = { ...defaultConfig, ...overrides };
     const { themes, screens, attributes, shades } = config;
     const methods = [];
@@ -44,12 +41,7 @@ exports.createFunctionClassMap = (overrides = {}) => {
     return methods;
 };
 
-/**
- * Generates the list of javascript object exports as a string to be written to a file
- * @param {Array} methods 
- * @returns string
- */
-exports.createMethodExports = (methods) => {
+export const createMethodExports = (methods: Array<Methods>): string => {
     return methods.map(m => 
         `export const ${m.name} = { ${Object.entries(m.classes).map(([key, value]) => (`${key}: "${value}"`))}};\n`
     ).join()

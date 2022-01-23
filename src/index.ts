@@ -1,5 +1,5 @@
-const fs = require("fs");
-const { createFunctionClassMap, createMethodExports } = require("./scripts/createColorClasses");
+import * as fs from "fs";
+import { createFunctionClassMap, createMethodExports } from "./scripts/createColorClasses";
 const output = createMethodExports(createFunctionClassMap());
 
 fs.writeFile('./generated/output.js', output, err => {

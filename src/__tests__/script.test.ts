@@ -1,4 +1,4 @@
-const { createFunctionClassMap, createMethodExports } = require("../scripts/createColorClasses.js");
+import { createFunctionClassMap, createMethodExports } from "../scripts/createColorClasses";
 
 describe("shallow test of outputs from exported script methods", () => {
 
@@ -65,7 +65,8 @@ describe("shallow test of outputs from exported script methods", () => {
     test('createFunctionClassMap should produce alternate output when overrides are provided', () => {
         const removeDarkTheme = createFunctionClassMap({ themes: [""] });
         const containsDarkClasses = removeDarkTheme
-            .some(({ classes }) => Object.values(classes).some(c => c.includes("dark:")));
+            .some(({ classes }) => Object.values(classes)
+                .some((c) => c.includes("dark:")));
 
         expect(containsDarkClasses).toBe(false);
     });
