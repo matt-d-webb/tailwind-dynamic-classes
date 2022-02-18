@@ -4,7 +4,7 @@
 
 A utility library for dynamically using tailwind css color classes.
 
-<div align="center" style="font-size:150px;">
+<div style="font-size:150px;">
 🌈
 </div>
 
